@@ -1,0 +1,1044 @@
+**Here is the complete transcript of the report, from start to end, as requested:**
+
+##### 1st Edition
+# WHO WANTS TO BE AN ENTREPRENEUR?
+### Inside the Minds of Indian Students
+www.guesssindia.in
+##### 2023 SURVEY REPORT Puran Singh Dharmender K Yadav
+GUESSS India 2023 Report
+GUESSS India is the India Chapter of the Global University Entrepreneurial Spirit Students'
+Survey (GUESSS) - the largest global research project that involves a comprehensive
+survey on student entrepreneurs worldwide. The project aims to study entrepreneurial
+spirit - intentions and activities of students across the globe. Currently, Professor Puran
+Singh at the School of Management, Indian Institute of Technology Mandi, is leading the
+GUESSS India Chapter.
+GUESSS India 2023 marks the maiden effort to survey Indian students’ entrepreneurial
+spirit. This report presents the findings of the survey, revealing the entrepreneurial
+mindset of Indian students for the first time. This web-based survey was conducted
+during November 2023-February 2024 and received 13,896 responses. It covers a broad
+range of variables, including students' career choices, entrepreneurial intentions,
+entrepreneurial attitude, entrepreneurial behaviour, university climate, and socio-
+demographic profiles of the students. These variables enable insights into both global and
+national trends of student entrepreneurship.
+Established in 2003, GUESSS is centrally coordinated by a global team at two Swiss
+universities - the University of Bern and the University of Saint Gallen. The global team
+recruits national teams to carry out the survey every two years. The first GUESSS survey
+was conducted in 2003 in a single university, later expanding to 93 universities across 14
+countries in 2006. Since then, GUESSS survey has scaled rapidly around the globe. In
+2023, GUESSS boasted of 57 national teams that garnered 2,26,718 responses globally.
+GUESSS contributes significantly to the understanding of students’ entrepreneurial spirit.
+Its theoretical foundation is built on the Theory of Planned Behavior (Ajzen, 2002), which
+links attitudes, subjective norms, and perceived behavioral control to entrepreneurial
+intentions. GUESSS extends this model by incorporating university environment, family
+influence, and socio-cultural contexts. Through its longitudinal and cross-national
+approach, GUESSS offers a unique lens into the dynamics of student entrepreneurship
+across various cultural and economic environments. The survey’s findings are valuable for
+universities aiming to enhance entrepreneurial education and for policymakers seeking to
+nurture future business leaders.
+# WHO WANTS TO BE AN ENTREPRENEUR?
+### Inside the Minds of Indian Students
+www.guesssindia.in
+##### 2023 SURVEY REPORT
+##### 1st Edition
+##### Puran Singh Dharmender K Yadav
+Version: Oct 14, 2024 Copyright: GUESSS India, 2024
+All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law. For permission requests, please contact Puran Singh at puran@iitmandi.ac.in
+For more details visit: www.guesssindia.in
+Suggested Citation:
+Singh, P. & Yadav, D. (2024). Who wants to be an entrepreneur? Inside the Minds of Indian Student Entrepreneurs. GUESSS India, October 18, 2024, www.guesssindia.in
+I am delighted to present the inaugural edition of the GUESSS India Survey Report. This comprehensive survey captures the entrepreneurial spirit and aspirations of over 13,800 students from across the country, offering a unique and insightful glimpse into the future of India's startup ecosystem.
+Our journey in compiling this report has been both enlightening and inspiring. The data collected reflects the dynamic and evolving landscape of student entrepreneurship in India, highlighting the ambitions, challenges, and opportunities faced by young entrepreneurs. We hope that the insights provided here will serve as a valuable resource for educators, policymakers, universities, industry leaders, and aspiring entrepreneurs.
+One of the key goals of this report is to facilitate a deeper understanding of the entrepreneurial intentions and activities of Indian students. The study of students’ entrepreneurial orientation will help create a more supportive environment that nurtures the next generation of innovators and business leaders. The findings presented in this report underscore the importance of entrepreneurship education and access to resources in shaping entrepreneurial outcomes.
+I believe that collaboration and shared knowledge are essential for advancing the field of entrepreneurship. Therefore, I warmly invite researchers to collaborate with us in utilizing this extensive dataset for further research. Together, we can explore new dimensions of student entrepreneurship, generate valuable insights, and contribute to the development of effective strategies that promote entrepreneurial success.
+I extend our heartfelt gratitude to all the students who participated in the survey, the campus ambassadors, educational institutions, and partners who supported the 2023 survey round.
+Thank you for your interest in the GUESSS India Survey. I look forward to continuing this important dialogue on student entrepreneurship in India.
+Puran Singh
+# From GUESSS India
+Dr. Puran Singh Country Delegate, GUESSS India
+Associate Professor of Entrepreneurship, School of Management, IIT Mandi
+GUESSS India 2023 Report i
+It gives me great pleasure to write the foreword for the GUESSS India 2023 Report, led by Dr. Puran Singh, a pivotal study that delves into the entrepreneurial aspirations and actions of India’s young minds. This report, a pioneering effort in capturing the pulse of student entrepreneurship across the nation, arrives at a critical moment in India’s growth story.
+India today stands as one of the most vibrant startup ecosystems in the world, driven by a combination of government initiatives, private sector investments, and a strong spirit of innovation among our youth. However, the real foundation of this ecosystem is laid within our educational institutions, where future entrepreneurs are nurtured and supported. The insights from this report offer invaluable knowledge on how well our institutions are fostering the next generation of innovators and entrepreneurs.
+The fact that the GUESSS India 2023 Report covers such a diverse and extensive student population is commendable. The findings not only highlight the entrepreneurial potential in our young people but also identify critical areas where more targeted support can unlock even greater success. It is encouraging to note the high level of entrepreneurial intent among Indian students and the growing role of universities in facilitating entrepreneurship. At the same time, the report emphasizes the need to bridge the gap between intention and action, particularly by enhancing the role of incubators and creating pathways for students to transition from nascent ventures to active enterprises.
+As someone who has been closely involved in India’s entrepreneurial journey over the years, I firmly believe that the insights in this report will provide essential guidance for policymakers, educators, and startup enablers. The data points and trends outlined here offer a roadmap for shaping the future of student entrepreneurship in India. More importantly, this report reaffirms the critical role of education in nurturing not just job seekers, but job creators, and the continued importance of fostering an entrepreneurial mindset in the youth.
+I congratulate Dr. Puran Singh and his team for their effort in presenting a comprehensive and thoughtful analysis of the entrepreneurial spirit in Indian students. I hope this report will inspire further collaboration between government, industry, and academia, as we work together to make India a global leader in entrepreneurship.
+Harkesh K Mittal
+# Foreword
+GUESSS India 2023 Report
+##### Dr. Harkesh K Mittal Former Adviser, Ministry of Science & Technology
+National Science & Technology Entrepreneurship Development Board (NSTEDB) Department of Science & Technology, Govt. of India
+ii
+It is with great pleasure to see the inaugural GUESSS India Survey Report 2023. As the President of the Indian STEPs and Business Incubators' Association (ISBA), I have witnessed firsthand the pivotal role that entrepreneurship plays in shaping India’s future. This report is a timely and much-needed endeavour, as it provides invaluable insights into the entrepreneurial spirit, ambitions, and challenges faced by the youth of our country.
+The survey's findings offer a comprehensive understanding of how the next generation of entrepreneurs is preparing to contribute to the nation's vibrant startup ecosystem. The entrepreneurial landscape in India has undergone a significant transformation in recent years, with government initiatives, academic institutions, and industry stakeholders working together to create an environment that fosters innovation and entrepreneurship. Programs implemented by the Central and various State-level initiatives to promote innovations and startups have played a crucial role in empowering our youth to pursue entrepreneurship as a viable career path.
+As we look to the future, this report serves as a valuable resource for incubators, accelerators, and innovation hubs, offering critical insights to guide the design of more effective incubation programs. In particular, academic institution-based incubators play a pivotal role in promoting and nurturing student entrepreneurs, as they are uniquely positioned to provide the tailored support, mentorship, and resources that young innovators need to thrive.
+I would like to commend Dr. Puran Singh and his team at the School of Management, IIT Mandi for their dedicated efforts in bringing this seminal report to life. Their work will undoubtedly inspire policymakers, educators, and industry leaders to continue investing in student entrepreneurship, ensuring that India’s young entrepreneurs have the support they need to succeed. I am confident that this report will serve as an important resource for all stakeholders in the Indian startup ecosystem. Together, let us work towards empowering the next generation of entrepreneurs who will drive India’s innovation and economic growth in the years to come.
+Sincerely, Dr. K Suresh Kumar
+# Foreword
+GUESSS India 2023 Report
+##### Dr K Suresh Kumar
+President Indian STEPs and Business Incubators Association (ISBA)
+iii
+I am pleased to witness the launch of the GUESSS India Survey Report 2023. The report seems to be a comprehensive and insightful study that sheds light on the entrepreneurial aspirations and activities of students across India. This report offers tangible and usable insights to the readers to aid in their understanding of the mindset and motivations of young innovators - a critical segment that holds the key to driving India’s innovation and entrepreneurial ecosystem .
+The Department of Science and Technology has long been committed to fostering a culture of innovation and entrepreneurship in the country. Initiatives such as the National Initiative for Developing and Harnessing Innovations (NIDHI) and the establishment of over 180 Technology Business Incubators across the country, reflect our continuous efforts to support the next generation of entrepreneurs.
+This report complements these initiatives by offering invaluable data on student entrepreneurship, which can be useful in future policy directions and also in program designs. In India, there is remarkable potential of student entrepreneurs and we have to ensure that this potential is fully realized. Academic institutions must continue to play a pivotal role in fostering entrepreneurship by providing a conducive environment that encourages innovation, creativity, and risk-taking. It is through the synergy of academia, industry, and government that we can build a robust entrepreneurial ecosystem capable of addressing the challenges of tomorrow.
+I extend my heartfelt congratulations to Dr. Puran Singh and his team at IIT Mandi for their work on this report. Their dedication and hard work have resulted in a resource that should benefit policymakers, educators and also the students themselves who aspire to become the entrepreneurs of the future.
+I look forward to seeing how the insights from this report will inspire further actions and collaborations to nurture the entrepreneurial spirit among students and strengthen the foundation of India’s startup ecosystem.
+My best wishes to the team at IIT Mandi.
+Praveen Roy
+# Message
+##### Dr. Praveen Roy Scientist 'G' Head, Technology Translation & Innovation Wing Department of Science & Technology
+ivGUESSS India 2023 Report
+# Preface
+We are excited to present the first edition of the GUESSS India Survey held in 2023. This report marks a significant milestone in our journey to understand and foster student entrepreneurship in India. As India prepares to become a leading force in entrepreneurship and innovation, this report paves the way for understanding the current mindset of the Indian student population.
+India has undertaken several initiatives to create a thriving entrepreneurial ecosystem. These initiatives, supported by government policies and educational institutions, aim to nurture the entrepreneurial spirit among students. Programs like Startup India, Atal Innovation Mission, and MHRD’s Innovation Cell are just a few examples of the efforts being made to support young entrepreneurs.
+The future generation of entrepreneurs is currently studying in the institutions of higher education. Their mindset holds the key to the prosperity of the economy and the country. Understanding their intentions, motivations, and challenges is crucial for creating an environment that supports their entrepreneurial aspirations.
+We believe this maiden report will be seminal in initiating and shaping scholarly discourse on student entrepreneurship in the Indian context. The insights gained from this survey will help educational institutions and policymakers, and inspire researchers to undertake research inquiries into student entrepreneurship.
+We hope that the findings and recommendations presented in this report will serve as a valuable resource for all stakeholders in the Indian entrepreneurial ecosystem.
+Sincerely,
+Dr. Puran Singh Country Delegate, GUESSS India
+v
+# Acknowledgements
+The GUESSS India Survey 2023 owes its success to the dedicated efforts of numerous individuals and organizations. The campus ambassadors across various institutions played a crucial role in enabling data collection, reaching a wide student audience through their dedication and hard work. The Indian STEPS and Business Incubators’ Association (ISBA) lent support of its country wide network of incubators for promoting the survey. The National Programme on Technology Enhanced Learning (NPTEL) office at Indian Institute of Technology (IIT) Madras provided invaluable support by widely publicizing the survey, greatly facilitating the data collection process. The Wadhwani Foundation significantly contributed by facilitating access to their associate educational institutes and popularizing the survey, ensuring relevant outreach. The SAFL India Foundation played a pivotal role in popularizing the survey within Delhi University and its affiliated colleges.
+The core team members of the GUESSS India 2023 team demonstrated exceptional coordination and dedication throughout the survey process, forming the backbone of this initiative. The School of Management at IIT Mandi offered a conducive environment for the study, providing essential support and resources that were crucial to the project's successful execution. Faculty members and administrative office bearers at various educational institutions also played a vital role by assisting in circulating the survey among students, ensuring the necessary data was gathered for this report. Their cooperation and efforts have been fundamental to the completion of this project. We extend their sincere gratitude to all who contributed to the success of the GUESSS India Survey 2023.
+Sincerely,
+Dr. Puran Singh Country Delegate, GUESSS India
+Dharmender K Yadav National Team Member, GUESSS India
+vi
+# Report 0verview
+# A Birds’ Eye View of Entrepreneurial Spirit of Indian Students
+# HIGHLIGHTS
+# 13,896
+Total Students Surveyed
+# 14%
+Students intend to become entrepreneur right after graduation
+# 31%
+Students intend to become entrepreneur in five years
+# 70%
+Students intend to enter employment right after graduation
+# 26%
+Student ventures are incubated at business incubators
+# 31
+States/UTs Covered
+# Career Choice of Indian Students
+# University Entrepreneurship Climate
+# 49%
+Students that have completed a course on Entrepreneurship
+# 4.7/7
+Students’ Perception Rating for University Entrepreneurship Climate
+# Entrepreneurial Activity
+# 33%
+Students are in process of setting up an entrepreneurial venture - Nascent ventures
+# 63%
+Student ventures have received support from their University
+# 4.6/7
+Entrepreneurial Intention Rating of students not involved in venture creation
+# 4.8%
+Students are running an active startup venture currently
+# 52%
+Students intend to be in employment in five years
+# 1st
+Student Entrepreneurship Spirit Survey in India
+# 1. Entrepreneurship: An Emerging Career Choice
+##### 14% of surveyed students want to become an
+##### entrepreneur after graduating, and 31% want to
+##### become an entrepreneur in five years after
+##### graduating - a strong interest in entrepreneurship,
+##### the highest among global peers
+# MAJOR TRENDS
+# The GUESSS India 2023 Survey highlights the strong entrepreneurial spirit among Indian students, underscoring the emergence of a vibrant student startup ecosystem across diverse academic institutions in India
+# 2. Robust Student Venture Pipeline
+##### 33% of surveyed students are in the process of
+##### starting a startup venture, the highest among
+##### global peers and better than the global average of
+##### 25%, indicating a strong pipeline of student
+##### entrepreneurs in the Indian Universities.
+# 3. Slowly Emerging Active Student Ventures
+##### 4.8% of surveyed students are already running a
+##### business venture. While global average is 11%,
+##### India should soon see an uprise in active ventures
+##### as 33% students prepare to establish new
+##### ventures.
+# 4. Access to Incubation for Student Ventures
+##### 26% of student ventures are now incubated,
+##### indicating growing availability of structured
+##### resources such as mentorship, funding, and
+##### infrastructure for venture success.
+# 5. Entrepreneurship Education on the Rise
+##### 49% of surveyed students have been exposed to
+##### entrepreneurship education which is a positive sign.
+##### We need more specialized programs to promote
+##### Entrepreneurship as a career choice.
+# 7. Employee First, Entrepreneur Later
+##### 70% students want to become employees now,
+##### dropping to 52% in five years. 14% students want to
+##### be an entrepreneur now, rising to 31% in five
+##### years. A significant number prefers to work before
+##### turning entrepreneur.
+# 6. Positive University Entrepreneurship Climate
+##### Indian students have a positive perception of
+##### University entrepreneurship climate (4.7/7), the
+##### highest among global peers. 63% of student
+##### ventures received venture support from their
+##### university.
+# 8. Strong Entrepreneurship Intent
+##### Students currently not engaged in entrepreneurial
+##### activity show a strong entrepreneurial intention
+##### (4.6/7), higher than the global average (3.7/7) and
+##### the highest among the global peers.
+# KEY CONCEPTS
+##### Career choice intention refers to the career paths students are aspiring to undertake immediately after graduating (Immediate career choice) and 5-years after graduating (Long-term career choice). The students select one of the several career option provided in the survey.
+#### Career Choice Intention
+##### University Entrepreneurship Climate refers to the perception of students about entrepreneurial culture and support at their university. The students rate their university on three-item scale using a 7-point Likert scale.
+#### University Entrepreneurship Climate
+##### Entrepreneurship Education refers to students’ exposure to entrepreneurship courses. The students respond to a multi-select question to indicate if they have taken a compulsory course, elective course, or specific entrepreneurship program.
+#### Entrepreneurship Education
+##### Active entrepreneurs are those students who are already running their own venture. These ventures have moved beyond the nascent stage and have been operational long enough to pay salaries for three months or more.
+#### Active Entrepreneur
+GUESSS India 2023 Report xii
+# KEY CONCEPTS
+##### Nascent entrepreneurs are those students who are actively trying to start their own venture. These ventures have not yet reached the stage where their business is generating regular income.
+#### Nascent Entrepreneurs
+##### Students who are neither actively running a business (active entrepreneurs) nor in the process of starting one (nascent entrepreneurs). They may have interest in entrepreneurship but are not currently engaged in any entrepreneurial activity.
+#### Non-Entrepreneurs
+##### Entrepreneurial intent refers to students’ conscious and deliberate mindset to engage in entrepreneurial activities in future, even if they have not yet started a business. The students respond to three-item scale on a 7-point Likert scale.
+#### Entrepreneurship Intent
+##### Successors are the non-entrepreneurs (students not engaged in active or nascent ventures) who have a family business background.
+#### Successors
+GUESSS India 2023 Report xiii
+1. National Team A two-member national team planned and implemented the survey.
+2. Core Team A core team of six members coordinated the survey execution across the country.
+3. Campus Ambassadors A network of 105 Campus Ambassadors (students) across the country actively popularized the survey to encourage responses.
+4. Partner Network Three partner organizations helped promote the survey among the students of Indian higher educational institutions.
+#### Data Collection
+##### Outcome (Responses)
+# METHODOLOGY OVERVIEW
+#### Sampling FrameGUESSS India Team
+Target Sample I (175)* Top 100 Institutions as per Innovation Category of NIRF Rankings 2023 (NIRF100).
+& Select Centrally Funded Technical Institutions (CFTIs) (88).
+Target Sample II All other Higher Education Institutions in India
+**175 is the unique number of institutions across target CFTIs and NIRF100*
+1. Research Instrument Web based online questionnaire accessible through handheld or desktop devices.
+2. Survey Duration Approximate time to complete a survey: 15 min.
+3. Survey Promotion Questionnaire promotion through Campus Ambassadors; Institute Staff/Faculty/Students; Partner Organizations’ Network.
+4. Survey Channels: Emails, Posters, Exclusive IM Groups, Direct contact
+1. Total Responses: 13,896
+Sample I (5105)
+Sample II (8791)
+6. Regional Coverage of Institutions
+North (22%)
+Central (5%)
+East (6%)
+West (8%)
+South (59%)
+5. Sample I Coverage (148)
+NIRF Top 100 (98)
+CFTIs (63)
+2. Respondents’ Study Level
+Undergraduates (78.8%)
+Masters (16.2%)
+PhD (5%)
+4. Types of Universities (1298)
+Centrally Funded (11.3%)
+State Universities (24.8%)
+Private Universities (24.9%)
+Affiliating Universities (11.3%)
+Deemed Universities (2.9%)
+Govt Colleges (5.3%)
+Private Colleges (18%) 3. Study Discipline
+Engineering (68.3%) Business (7.4%) Science (7.5%) Others (16.7%)
+GUESSS India 2023 Report xiv
+# 13896
+#### TOTAL RESPONSES (100%)
+4.8% Active Entrepreneurs Students who are already running a live business.
+32.5% Nascent Entrepreneurs Students currently trying to start a venture
+24.3% Successors Students who have family’s business background
+38.4% Others Non-successors, Non-entrepreneurs
+38.4%24.3%32.5%4.8%
+#### Student Entrepreneurs (37.3%) Non Entrepreneurs (62.7%)
+# ANALYSIS BLUEPRINT
+Entrepreneur & Venture Profile What are the key characteristics of active and nascent entrepreneurs and their ventures?
+University Support What support are student entrepreneurs receiving from their university?
+Entrepreneurship Intent What is the entrepreneurial intent of non-entrepreneurs?
+Are they inclined to explore entrepreneurship in future?
+Career Choice Intention
+What are students short term and long term career aspirations?
+University Entrepreneurship Climate
+What is students’ perception of university climate?
+Entrepreneurship Education
+What is students’ exposure to entrepreneurship education?
+##### 1. Overall Analysis
+##### 2. Sub Sample Analysis
+Student Entrepreneurs Non Entrepreneurs
+GUESSS India 2023 Report xv
+# Executive Summary
+The GUESSS India 2023 Survey marks a significant milestone in understanding the entrepreneurial spirit of Indian students. This inaugural report offers insights into their career choices, entrepreneurial intentions and activities, perception of the university entrepreneurship climate, and a global comparison of entrepreneurial spirit among student entrepreneurs.
+Conducted between November 2023 and February 2024, the survey garnered responses from 13,896 students across 31 Indian states and union territories. These institutions include Centrally Funded Institutions (11.3%), State Universities (24.8%), Private Universities (24.9%), Affiliating Universities (11.3%), Deemed Universities (2.9%), Government Colleges (5.3%), and Private Colleges (18%).
+A substantial majority of the respondents are undergraduates (78%), primarily studying engineering disciplines (68%). Northern and Southern regions contribute 81% of the responses. Primary trends are:
+ENTREPRENEURSHIP IS AN EMERGING CAREER CHOICE AMONG STUDENTS
+14% of Indian students plan to become founders shortly after graduation, closely aligning with the global average of 15.7%. Notably, aspirations shift over time, with 31.4% of students intending to pursue entrepreneurship five years after graduating, compared to a global average of 30%. Initially, 69.7% of students intend to start as employees; however, it drops to 52.2% five years later, majority moving towards entrepreneurship.
+ROBUST STUDENT VENTURE PIPELINE 32.5% of Indian students are nascent entrepreneurs, actively engaged in starting their businesses - a figure impressively higher than the global average of 25.7%. This indicates a growing momentum for entrepreneurship within Indian universities, likely spurred by various policy initiatives in India.
+ACTIVE VENTURES ARE EMERGING SLOWLY
+4.8% of surveyed students currently manage revenue generating businesses. This is low compared the global average of 11.1%. There is a significant potential to activate the existing pipeline of nascent student entrepreneurs. The roles of government programs, university ecosystems and startup enablers are crucial in this context.
+ACCESS TO INCUBATION Approximately 26% of student ventures (both active and nascent) are linked to a business incubator. While this linkage is substantial, enhancing the connection between students and incubators is critical for transitioning nascent ventures into active businesses.
+ENTREPRENEURSHIP EDUCATION ON RISE 49% of the students have participated in entrepreneurship courses, surpassing the global average of 41.2%. This underscores the growing popularity of entrepreneurship education among Indian students.
+GUESSS India 2023 Report xvi
+POSITIVE UNIVERSITY ENTREPRENEURSHIP CLIMATE
+The average student rating for the University Entrepreneurship Climate in India is 4.66 on a 7-point Likert scale, slightly higher than the global average of 4.5. A positive perception of the entrepreneurship climate within universities motivates more students to explore entrepreneurial endeavours. Notably, 63% of the student ventures (both nascent and active) report receiving support from their university.
+ENTREPRENEURIAL INTENTION OF NON-ENTREPRENEURS
+Students not currently engaged in entrepreneurial activities exhibit a strong inclination (rated 4.6 on a 7-point scale) towards entrepreneurship, significantly above the global average of 3.7. Furthermore, 24.3% intend to take over, indicating a preference to start new ventures or seek employment in the public or private sectors.
+SUCCESSORS Globally, 35.3% of students have a family business, compared to 43.5% of non-entrepreneurs (those not engaged in an active or startup venture).
+INDIA’S GLOBAL STANDING India excels on several Entrepreneurial Spirit parameters compared to its peers (the US, England, China, Japan, and Germany). India is ranked the highest in terms of students’ immediate career preference for entrepreneurship, long term career preference for entrepreneurship, nascent ventures, and entrepreneurial intent of non-entrepreneur students.
+SWOT ANALYSIS Strengths
+Strong government support for entrepreneurship promotion. Positive entrepreneurial spirit among students. Positive student perception of the University entrepreneurship climate.
+Weaknesses Relatively low proportion of active ventures by students. Limited exposure of students to specialized entrepreneurship courses.
+Opportunities India has world's largest youth population, which is also inclined towards entrepreneurship. A robust pipeline of nascent student ventures, that are raring to go. Extensive support infrastructure and incubation networks nationwide.
+Threats Possible mismatch between support programs and the needs of student entrepreneurs. Dropout during transition from nascent venture to active venture. Potential tradeoff between quality of venture support and program outreach.
+KEY QUESTIONS: FOOD FOR THOUGHT Strengthening Support and Infrastructure: What measures are necessary to enhance our support programs and infrastructure to ensure that nascent student ventures successfully transition into active ventures? How can we ensure that support is accessible and available to aspiring entrepreneurs? What steps can we take to maintain the quality of support provided to student ventures?
+GUESSS India 2023 Report xvii
+The second chapter explains methodology including sampling, data collection, and presents key sample summary statistics. This is essential for understanding the survey's scope and interpreting the findings correctly.
+The third chapter focuses on the career choices of Indian students, examining both immediate career plans and long-term aspirations.
+Chapter four looks at students' entrepreneurial activities, distinguishing between nascent and active ventures. It examines the characteristics of student ventures, helping to deepen understanding of the entrepreneurial landscape in Indian universities.
+The fifth chapter turns to the role of universities in supporting entrepreneurship. It analyzes the support students receive, their exposure to entrepreneurship education, and their perception of the university climate for entrepreneurship.
+The sixth chapter compares the entrepreneurial spirit of Indian students with that of their peers in five major economies: China, Germany, Japan, the UK, and the US. This analysis highlights India's position in the global entrepreneurship landscape and identifies areas where Indian students either excel or lag.
+The report concludes with a SWOT analysis of Indian student entrepreneurship, while posing critical questions that can guide future policy and research. It offers actionable insights for enhancing the support system for student ventures and creating a more conducive environment for entrepreneurship in India.
+Enhancing Incubation Connections: How can we fortify the link between students and business incubators? What strategies can increase student ventures’ engagement with incubation centers? Are there mismatches between student ventures and incubation programs that could be causing the relatively low participation rates in these centers? Harnessing Entrepreneurial Intent: How can we retain the interest of those who plan to become entrepreneurs five years later? What can be done to accelerate their transition into entrepreneurship? Is it feasible to replace traditional corporate experiences with innovative pedagogical approaches and targeted venture development programs, encouraging more students to start ventures immediately rather than seeking employment first. Focusing on Entrepreneurship Education: Are we dedicating adequate attention to entrepreneurship education programs? Do we have enough qualified educators across various academic institutions? Have our teaching methods evolved sufficiently to decisively inspire and inform young minds about entrepreneurship?
+CHAPTER SCHEME The GUESSS India Survey 2023 Report is divided into seven chapters, each exploring a distinct facet of student entrepreneurship.
+The first chapter provides an overview of India's entrepreneurial landscape, offering a macro-level perspective on the country's startup ecosystem and the role of government support over the past decade.
+GUESSS India 2023 Report xviii
+# TABLE OF
+# CONTENTS
+### 01 THE RISING TIDE OF ENTREPRENEURSHIP IN INDIA
+### 02 ABOUT GUESSS INDIA SURVEY
+### 03 CAREER CHOICES AND ENTREPRENEURIAL INTENTIONS
+### 04 ENTREPRENEURIAL ACTIVITY OF INDIAN STUDENTS
+### 05 UNIVERSITY ENTREPRENEURSHIP CLIMATE
+### 06 STUDENT ENTREPRENEURSHIP OUTLOOK: INDIA AND GLOBAL PEERS
+### 07 KEY INSIGHTS AND PATH AHEAD
+### ANNEXURES
+### REFERENCES
+### 01
+### 07
+### 15
+### 22
+### 30
+### 41
+### 51
+### 58
+### 59
+# List of Figures
+Fig. 1.1 Number of Unicorns in India (2015-24) Fig. 1.2 Number of Unicorns by Country (2024) Fig. 1.3 Overview of the Indian Startup Ecosystem Fig. 2.1 Regional Distribution of Responses Fig. 2.2 Types of Institutions Covered Fig. 2.3 Gender Distribution of Sample Fig. 2.4 Age Distribution of Sample (Years) Fig. 2.5 Field of Study Fig. 2.6 Level of Study Fig. 2.7 Family Members Involved in FamilyOwned Business Fig. 3.1 Immediate Career Choices of Indian Students Fig. 3.2 Long Term Career Choices of Indian Students Fig. 4.1 Nascent Student Entrepreneurs Fig. 4.2 Timeline of Nascent Entrepreneurs Fig. 4.3 Commitment of Nascent Entrepreneurs Fig. 4.4 Past Startup Experience of Nascent Entrepreneurs Fig. 4.6 Industry Sectors of Nascent Entrepreneurs Fig. 4.5 Number of Co-founders of Nascent Entrepreneurs Fig. 4.7 Active Student Entrepreneurs Fig. 4.8 Commitment of Active Entrepreneurs Fig. 4.9 Age of Active Ventures Fig. 4.10 Past Startup Experience of Active Entrepreneurs Fig. 4.11 Industry Sectors of Active Entrepreneurs Fig. 5.1 Indian Students’ Perception of University Entrepreneurial Climate Fig. 5.2 Entrepreneurship Education Exposure of Indian Students Fig. 5.3 University Support Fig. 5.4 Type of University Support Received by Student Entrepreneurs Fig. 5.5 University Support at different Institutes Fig. 5.6 University Support in different Regions Fig. 5.7 University Support Received by Student Entrepreneurs Fig. 5.8 Incubation Status of Student Ventures in India Fig. 5.9 Incubation Status for Active Entrepreneurs Fig. 5.10 Incubation Status for Nascent Entrepreneurs Fig. 5.11 Incubation Status at different type of Institutes Fig. 5.12 Incubation Status at different Regions Fig. 5.13 Entrepreneurial Intention of Indian Students Fig. 6.1 Students’ Gender for India and Global Peers Fig. 6.2 Students’ Level of Study for India and Global Peers Fig. 6.3 Students’ Field of Study for India and Global Peers Fig. 6.4 Students’ Family Business Background for India and Global Peers Fig. 6.5 Students’ Career Choices Preferences for India and Global Peers Fig. 6.6 Students’ Perception of University Entrepreneurship Climate for India and Global Peers Fig. 6.7 Proportion of Nascent and Active Entrepreneurs for India and Global Peers Fig. 6.8 Commitment of Nascent Entrepreneurs Across Countries Fig. 6.9 Industry Sectors of Startup Ventures Fig. 6.10 Past Startup Experience of Founders Fig. 6.11 Students’ Entrepreneurial Intention for India and Global Peers Fig. 6.12 India’s Relative Standing on Students’ Entrepreneurial Spirit Fig. 7.1 SWOT Analysis of Indian Student Entrepreneurial Ecosystem
+02 02 05 10 10 12 12 12 13 13 18 18 24 24 25 25 25 26 27 27 28 28 28 32 33 33 34 34 35 36 37 37 37 38 38 39 43 43 43 43 44 45 46 47 47 47 48 49 55
+GUESSS India 2023 Report xx
+# 1. The Rising Tide of Entrepreneurship in India
+### USA China India UK Germany 0
+### 200
+### 400
+### 600
+### 800
+### 20 15
+### 20 16
+### 20 17
+### 20 18
+### 20 19
+### 20 20 20
+### 21 20
+### 22 20
+### 23 20
+### 24 0
+### 20
+### 40
+### 60
+### 80
+### 100
+### 120
+OVERVIEW OF THE INDIAN STARTUP ECOSYSTEM India has arrived among the top three startup destinations globally. With over 140,000 startups registered with the Department for Promotion of Industry and Internal Trade (DPIIT), Government of India, India presents tremendous potential for innovation and entrepreneurship that is bound to shape its future.
+India’s entrepreneurial landscape has experienced substantial growth recently. In the past five years, the Indian startup ecosystem has been growing at a compound annual growth rate (CAGR) of around 12-15%. Indian cities including Bengaluru, Delhi and Mumbai are among the top startup cities globally.
+Consequently, India boasts of 110+ unicorns (startups valued at over $1 billion), making it the third-largest hub for unicorns globally, after the United States and China. In terms of alma maters that have given the most unicorns to the world, Indian educational institutions (IITs) rank fourth highest after after three leading American Universities.
+# 1. The Rising Tide of Entrepreneurship in India
+#### *India's entrepreneurship ecosystem is driven by progressive policy interventions and substantial government support that encourages innovation and entrepreneurship.*
+Fig. 1.2 Number of Unicorns by Country (2024)
+Fig. 1.1 Number of Unicorns in India (2015-24)
+*Source: Unicorns in India: List of startup companies with unicorn status in 2024, Forbes India, August 2024, accessed on Oct 4, 2024*
+Source: Global Unicorn Index 2024, Hurun Report, Hurun Research Institute, April 2024, accessed on Oct 4, 2024
+GUESSS India 2023 Report 02
+MACROECONOMIC ENVIRONMENT IN INDIA In the last decade, a favorable macroeconomic environment in India has catalyzed the startup ecosystem. India’s GDP growth rate, projected at around 6-7% annually, supports entrepreneurial activities.
+India has significantly improved its business environment and global competitiveness as per three key international indices. First, the World Bank’s Doing Business Report 2020 ranked India 63 out of 190 economies, significantly improving from its 142nd position in 2014. Reforms in starting a business, dealing with construction permits, and resolving insolvency have contributed to this rise. These regulatory enhancements have made it easier for entrepreneurs to establish and operate businesses, fostering a more dynamic entrepreneurial ecosystem.
+Second, India was ranked 63rd in the Global Competitiveness Report 2020, reflecting strengths in market size, financial market development, and business dynamism. India’s competitive edge in technological adoption and innovation capability lays a strong foundation for future entrepreneurial progress.
+Finally, India’s position in the Global Innovation Index (GII) has steadily improved, reaching the 39th rank globally in 2023. India’s rise in GII rankings is attributed to strong performances in ICT services exports, the quality of scientific publications, and R&D investments. Although trailing innovation leaders like Switzerland, Sweden, and the United States, India has outperformed several other emerging economies, highlighting its potential as an innovation hub.
+These indices are a testament to India’s commitment to promoting entrepreneurial activity across the length and breadth of the country.
+The favorable macroeconomic environment and global recognition make entrepreneurial ventures more attractive economic proposition, particularly to the student population waiting to enter the job market. This robust inclination towards starting new ventures is driven by governmental support, access to capital, and a burgeoning market for digital services.
+# 39 India’s 2023 Rank in Global Innovation Index
+# 63
+### India’s Rank in Global Competitiveness Report 2020
+# 63
+### India’s Rank in Doing Business Report 2020
+GUESSS India 2023 Report 03
+INITIATIVES OF INDIAN GOVERNMENT In the past decade, the Indian Government has taken substantial policy initiatives to promote startup ecosystem in India. Government Ministries have taken pathbreaking measures to create an on-the-ground support system through support programs, incubation centres and other enabling mechanisms, ensuring varied assistance to startup founders. These institutional initiatives have targeted a wide range of technologies, ventures, sectors and outcomes, resulting in an all-around push to innovation and entrepreneurship in the country. These initiatives offer financial and non-financial incentives for startups including access to incubation center in the state, monthly sustenance allowance to founders, seed funds for validated startups in the states, easier compliances related to registration, tax exemptions, preference in government purchase, etc. Consequently, India is experiencing emergence of entrepreneurship ecosystems in cities as well as geographically dispersed hamlets , providing abundant opportunity to youth to become entrepreneurs.
+Led by Department of Science and Technology (DST) in 2016, one of the first initiatives was NIDHI Umbrella Programs that established a wide network of incubation centers and startup support programs throughout the country. Around the same time, a nation wide campaign to promote startups was undertaken through ‘Startup India’ initiative that eased regulatory and policy framework to accommodate and promote startups through relaxed compliance and policy frameworks.
+Atal Innovation Mission was also launched in 2016 that created an additional battery of incubation centers in higher education institutions, community innovation centers for grassroot innovation, and tinkering labs to promote innovation at the school level.
+# Key Policy Initiatives 2016-Present
+2016: NIDHI Program launched by NSTEDB, DST National Initiative for Development and Harnessing Innovations (NIDHI) established a network of incubation centers across the country, and a range of startup funding programs.
+2016: Startup India Initiative launched Provided tax and & compliance exemptions | Encouraged Startup Policy at State Level | Established National Startup Seed Fund
+2016: Atal Innovation Mission (AIM) Launched Established a network of Incubation Centers, Community Innovation Centers, and School Level Tinkering Labs
+2018: Ministry of Education’s Innovation Cell Launched (MIC) Established Institute Innovation Councils (IICs) across higher educational institutions, Promoted entrepreneurship through frequent Awareness Programs and Innovation Competitions
+2019: National Innovation and Startup Policy (NISP) Encouraged educational institutions to promote student entrepreneurship through education, funding, and mentoring
+2019: Atal Ranking of Institutions on Innovation Achievements (ARIIA) launched Encouraged competition among Indian higher educational institutions to be the best in nurturing entrepreneurship on campus.
+2020: New Education Policy (NEP) Launched Integrated entrepreneurship into the course curriculum of educational institutions
+2022: MEITY Startup Hub by Ministry of Electronics Launched a dedicated national program to advance electronics based startups.
+GUESSS India 2023 Report 04
+The launch of ‘State Startup Rankings’ in 2016 provided more impetus on startup ecosystem. Consequently, 31 of 36 states/UTs declared a State Startup Policy. It increased the appreciation of startup ecosystem among government bureaucracy and government departments.
+In another game-changing decision in 2018, the Ministry of Education set up an Innovation Cell (MIC) to foster a culture of innovation across higher educational institutions. Towards this end, MIC drafted a National Innovation and Startup Policy (NISP) in 2019 that provided a framework to Indian higher educational institutions to accommodate entrepreneurship in education, infrastructure, culture, policies and regular activities.
+In the same year, ‘Atal Rankings of Institutions on Innovation Achievements’ were launched for Indian higher educational institutions (ARIIA). These rankings were later merged into the National Institutional Ranking Framework (NIRF) which is the most sacrosanct ranking framework for the Indian education ecosystem. The innovation ranking category ensured that all institutions competed to create the best institutional climate for entrepreneurial activity.
+Since 2018, MIC has helped 7,400 Indian institutions to set up ‘Institute Innovation Councils’ (IICs) which have the mandate to encourage innovation and entrepreneurship through regular conduct of student-level activity.
+In addition to institute-level activity by IICs, MIC has conducted several national and international events and competitions that have created awareness and enthusiasm amongst Indian students to participate in entrepreneurship activity. This initiative has been building institutional capacity to support innovation and entrepreneurship.
+Fig. 1.3 Number of Indian Educational Institutions with Institute Innovation Council (2019-2024)
+### 2019 2020 2021 2022 2023 2024 0
+### 2000
+### 4000
+### 6000
+### 8000
+### 10000
+### 12000
+### 14000
+# 2,951 Incubation Centers
+# 7,498 Pre-Incubation Centers
+Source: IIC Impact Dashboard, MoE's Innovation Cell, https://iic.mic.gov.in/iic-impact-dashboard, accessed on Oct 4, 2024
+GUESSS India 2023 Report 05
+As of 2024, India boasts of 2,950+ incubation centers and nearly 7,500 pre-incubation centers across its higher educational institutions. These centres are heavily funded by the government bodies and are meant for the student of the educational institutions to experiment early on with startup ideas.
+INDIAN EDUCATION ECOSYSTEM Indian education ecosystem comprises 1,250+ universities, 50,000+ colleges, and 13,500+ standalone institutions offering specialized education. Universities include Central Universities established by an Act of Parliament, State Universities established by state legislatures, Deemed Universities recognized by the Department of Higher Education, and Private Universities funded by private organizations. Colleges are affiliated to the Universities and standalone institutions offer specialized courses for students.
+The diversity of the education ecosystem, coupled with enabling policy frameworks, presents a conducive environment for students to attempt innovative ventures. These institutions equip the students with advanced knowledge and skills, fostering research and innovation, and preparing them for various professional fields.
+CONCLUSION India boasts of the largest youth population globally, with a median age of 28 years. This demographic contributes to a dynamic and adaptable workforce. In addition, India produces over 1.5 million engineers annually, creating a robust talent pool for tech entrepreneurship.
+The robust education ecosystem, coupled with Government’s strong intent to promote startup culture, poise India to become a leader in entrepreneurship and innovation in
+near future. With all kinds of support enabled, India‘s student power has the most favorable environment to experiment with entrepreneurship. India’s rise as a thriving startup ecosystem hinges on students’ entrepreneurial spirit and intentions. Is India’s youth ready for the opportunity? Does the youth population realize the significance of this opportunity? The answers to these questions hold the key to economic growth of India in the coming decade.
+This report answers some of these questions, raises pertinent concerns, and paves way for further research on student entrepreneurship in India.
+# 1250+ Universities
+# 13,500+ Standalone Institutions
+# 50,000+ Colleges
+GUESSS India 2023 Report 06
+# 2. About GUESSS India 2023 Survey
+# The Maiden GUESSS Survey in India
+### Taking India onto the Global Student Entrepreneurship Map
+INTRODUCTION The Global University Entrepreneurial Spirit Students' Survey (GUESSS) is an international research project that aims to understand and analyze the entrepreneurial intentions and activities of students across the globe. Established in 2003, GUESSS is coordinated by the University of St. Gallen and the University of Bern in Switzerland. It has grown to include participation from 57 countries in 2023, providing valuable insights into the entrepreneurial mindset of students globally (Annexure 1).
+GUESSS India is the Indian Chapter of GUESSS led by Professor Puran Singh, based out of the School of Management at the Indian Institute of Technology Mandi, India. GUESSS India 2023 Survey marks the maiden effort to survey Indian students’ entrepreneurial spirit.
+This is then ninth round for the Global GUESSS Survey which received 226,718 responses from 57 countries. Indian sample contributed 13,896 responses (6.13%) - the third-largest from any country (Annexure 2), indicating Indian students’ strong interest in entrepreneurship related initiatives.
+# 2. About GUESSS India Survey
+#### *GUESSS India 2023 is the inaugural country-wide student survey capturing the entrepreneurial spirit of over 13,800 students in Indian higher educational institutions, covering a range of theoretical constructs.*
+OBJECTIVE The primary goal of GUESSS India is to explore and understand the entrepreneurial intentions, attitudes, and behaviors of Indian students. This survey is conducted across the Indian higher educational institutions, encompassing a diverse range of students from various academic disciplines and educational levels.
+GUESSS India Survey aims to paint a comprehensive picture of the current state of student entrepreneurship in India. The insights derived from this survey are intended to inform policymakers, educators, and industry leaders about the student entrepreneurship landscape in India. This new knowledge will help in crafting policies and creating support systems that foster a robust entrepreneurial ecosystem within Indian higher education institutions.
+Most importantly, the results and findings from this survey are expected to provide a foundation for future research inquiry in this field which will contribute significantly to the scholarly discourse on student entrepreneurship in India.
+GUESSS India 2023 Report 08
+SAMPLE AND DATA The survey primarily targets 175 unique Indian higher educational institutions, drawn from both - the Top 100 ranked Indian Institutions in National Institutional Ranking Framework (NIRF) 2023 (Innovation Category) and 88 select Centrally Funded Technical Institutions (CFTIs) including IITs, NITs, IISERs, IIITs. The target respondents include the students with active enrollment in these institutions during academic year 2023-24.
+A total of 5,105 student responses were collected from this primary sample, averaging 32 responses per institution. These responses have representation of students in 98 of the Top 100 institutions as per NIRF Ranking (Innovation Category) and 63 out of 88 CFTIs.
+Additionally, the survey was widely circulated to Indian students through strategic partners with established communication channels. This complementary outreach strategy yielded 8,791 additional responses from 1,142 Indian institutions. In total, the survey received 13,896 valid responses from a total of 1298 Indian institutions of higher education.
+TYPES OF INSTITUTIONS The survey responses were received from across major Indian higher education institution categories including Centrally Funded (11.3% responses), State Universities (24.8%), Pvt Universities (24.9%), Affiliating Universities (11.3%), Deemed Universities (2.9%), Govt Colleges (5.3%), and Private Colleges (18%). These responses ensure a distributed coverage of students spread across Indian higher education institutions.
+REGIONAL COVERAGE The survey received student participation from institutions distributed across the 31 states/Union Territories. This extensive coverage ensures a comprehensive understanding of the student entrepreneurial landscape across the country (Fig. 2.1).
+Notably, the Southern region stands out with the highest engagement - contributing 59.2% of the sample. The institutions in the Northern region contribute substantial 22.2% to the responses. Central, Eastern and Western regions contribute 5%, 6% and 8%, respectively.
+The skewed geographical representation of responses can be attributed to the fact that the target institutions are not distributed evenly. For instance NIRF 2023 Top 100 (Innovation Category) institutions are also skewed towards North and South (North 35%, Central 2%, Eastern 14%, Western 13%, and South 36%). Likewise, Indian universities, in general, are also concentrated in the Northern and Southern parts of the country (North 35%, Central 10%, West 15%, East 18%, South 21%). Therefore, the sample distribution represents the target population scatter to a justifiable extent.
+This dataset has the potential to reveal regional differences in entrepreneurial intentions and activities, influenced by factors such as local economic conditions, availability of resources, and attitude towards entrepreneurship. Understanding these regional variations is crucial for policymakers and educational institutions to tailor their support effectively.
+GUESSS India 2023 Report 09
+Total responses 13,896
+Fig. 2.1 Regional Distribution of Responses (% Responses) (Based on geographical location of respondents’ institution)
+Fig. 2.2 Types of Institutions Covered (% Responses)
+GUESSS India 2023 Report 10
+DATA COLLECTION The survey was executed during November 2023 - February 2024. The data collection was centrally coordinated by a six-member Core Team. The Core Team developed a network of about 100 campus ambassadors across target institutions listed in the primary sample category. The campus ambassadors were oriented to GUESSS India and suitably incentivized to promote the survey among diverse students groups in their respective institutions. Additionally, heads of institutions, faculty member(s), and/or administrative were approached to circulate the survey among their students. Several channels used for circulating the survey include emails, posters, exclusive instant messaging platforms, and direct contact by campus ambassadors.
+Under the second strategy, three partner organizations promoted the survey among Indian students in their respective professional networks.
+RESEARCH INSTRUMENT The GUESSS Survey has evolved over the last two decades since its first roll out in the year 2003. Over the years, the survey has continually expanded to include a wide range of relevant topics. Annexure 3 provides an overview of conceptual coverage.
+The questions in the survey are grounded in literature, primarily guided by the Theory of Planned Behaviour, and utilize several validated scales to measure the theoretical constructs.
+In addition to the Global Survey which is common across all countries, GUESSS India team adapted and augmented the survey to suit the Indian context. A respondent took
+Demographics
+# 1 Demographics including age,
+gender, educational and family background
+Psychological Traits
+# 2 Psychological traits such as
+personality type, scientific bend of mind, and students’ self-perception Entrepreneurial Traits
+# 3 Career choices preferences,
+entrepreneurial intention and succession intention.
+Entrepreneurial Activity
+# 4 Venture stage, perceived venture
+performance, and university entrepreneurship climate
+10-20 minutes on a desktop or handheld device with an internet connection, to complete the survey.
+The survey covers a broad range of theoretical concepts some of which are:
+GUESSS India 2023 Report 11
+GENDER Males constitute 61.8% of the sample, and female participants represent 38.1%, highlighting the predominance of male respondents in the survey (Fig. 2.3). Comparatively, the global sample has higher representation of females (57.5%).
+Fig. 2.3 Gender Distribution of Sample
+Fig. 2.4 Age Distribution of Sample (Years)
+AGE Fig. 2.4 shows that 53.7% of respondents are in the age group of 18-20 years. The next significant age group is 21-23 years, making up nearly a quarter of the responses at 24.7%. The 24-26 age group represents only 5.2%, while the 27 and above category constitutes 13% of the responses. The smallest group is of those below 18, at a minimal 3.4%.
+The distribution of age groups shows that survey was taken by a majority of students between 18-23 age range which are likely to be undergraduates. GUESSS Global Survey has 60% of the respondents between 18 and 23 years, making it the most predominant age group.
+FIELD OF STUDY The survey covers students from diverse disciplines (Fig 2.5). The highest proportion of respondents (35%) are studying Computer Sciences/IT (CS/IT), followed by other Engineering fields (33.2%). Fields such as Business/Management (7.4%), Arts/Humanities (6.5%), and Science (includes Natural Sciences, Mathematics, and Human Medicine/Health Sciences) are less represented, constituting 2.8%, 2.7%, and 2.2%, respectively. The category labeled ‘Others’ includes a variety of less common fields of study.
+The distribution reflects a predominant representation of technical disciplines in the surveyed students. Globally, the survey shows a more varied distribution of fields of study, with Business and Management students representing the largest group at 18.7%, followed by Engineering (14.1%) and Social Sciences (13.5%) .
+Fig. 2.5 Field of Study
+GUESSS India 2023 Report 12
+LEVEL OF STUDY The survey includes students at various educational levels (Fig 2.6). The majority of respondents (78.8%) are at undergraduate (Bachelor) level. Those at the graduate (Master's) level make up 16.2% of the sample, while 5% are pursuing a PhD. This distribution highlights a predominant concentration of individuals in the early stages of higher education, with significantly fewer participants engaged in higher studies.
+Globally, 76.7% of respondents are at the undergraduate (Bachelor) level, 14% at the graduate (Master's) level, and 3.5% pursuing a PhD. Other educational programs make up the remaining 5.8% of the global sample . We see a similar trend in the Indian dataset.
+Fig. 2.6 Level of Study
+Fig. 2.7 Family Members Involved in Family Owned Business
+FAMILY BUSINESS BACKGROUND The familial entrepreneurial influences are vital in shaping the aspirations and activities of the next generation of entrepreneurs.
+As shown in Fig. 2.7, a notable 43.5% of our respondents have a family business background, highlighting possibility of a strong entrepreneurial influence within the family. Further, 33.8% of students reported father’s involvement in the family-owned business - indicating a significant paternal
+entrepreneurial influence. For 2.6% of the students, the mother is engaged in the family-owned entrepreneurial venture. Additionally, 7.1% of the respondents reported involvement of both parents in the family-owned enterprise.
+Globally, only 35.3% of respondents reported a family business background. Specifically, 18.33% reported father’s involvement in the family business, 5.74% reported mother’s involvement, and 11.17% have both parents involved in a family business. The comparison with global survey exhibits a dominant familial business background for the Indian students -providing students with a strong foundation for entrepreneurial pursuits during or after studies.
+CONCLUSION The inaugural GUESSS India 2023 Survey not only covers diverse student population in India, but also provides an extensive conceptual coverage related to entrepreneurial intention, perception and activity. The survey is based on several theoretical constructs and has evolved over the previous eight rounds of data collection globally. The data collection in India was
+GUESSS India 2023 Report 13
+In addition, we must note that the sample predominantly represents undergraduates from technical backgrounds, therefore, the findings must be accordingly generalized.
+Further, we must also carefully interpret the findings of Indian survey vis a vis global averages or use country averages. There may be a fundamental difference in the sample composition, methodology of data collection, and varied geographical contexts that may limit absolute comparability of data. However, we should not completely shy away from globally benchmarking our ecosystem using this maiden survey in India.
+We sincerely hope that this comprehensive survey, with its extensive participation and diverse representation, serves as the cornerstone for scholarly research on issues pertinent to student entrepreneurship ecosystem in India.
+enabled by a network of on-the-ground campus ambassadors.
+The web-based surveys have limitations such as low response rate, limited representativeness and dependency on internet access which can self select respondents. Further, researchers have limited control over the survey environment and quality of responses.
+We minimized these limitations to the best possible using some measures. First, we engaged a field-level team to improve response rate and ensure representation of target students. Second, the issue of internet dependency is minimal among students since they are generally tech savvy and have institutional access to internet. This also takes care of self-selection as target respondents are only students who have internet access. Third, the quality of responses has been controlled by incentivizing the respondents to complete the survey.
+# 3. Career Choices and Entrepreneurial Intentions
+# Career Choices of Indian Students
+### Do Indian students want to become entrepreneurs?
+The career choice intentions refer to the plans that students make regarding their future professional paths. These plans reflect the aspirations of our youth - the emerging workforce that will drive India’s innovation and economic growth in future. This chapter aims to explore the career aspirations of Indian students, with a focus on their entrepreneurial intentions.
+The GUESSS India 2023 Survey records students’ career choice intentions at two points in time - immediately after graduating from the ongoing program, and five years later. Understanding students' career intentions right after graduation provides insights into their immediate interest in the job market and indirectly indicates their current skillset.
+However, it is pertinent to understand students’ reflection on how they expect their career to shape up in near future as they gain more experience in the job market. Therefore, students’ career choices five years after graduating has also been measured, to indicate longer-term professional aspirations and perceived career progressions in future.
+# 3. Career Choice Intentions of Indian Students
+#### *Indian students are increasingly inclined towards entrepreneurship, with significant shifts in career preference from traditional employment to founding own venture within five years of graduation.*
+# What are the career aspirations of Indian students?
+# Do they want to become an entrepreneur?
+# Q
+GUESSS India 2023 Report 16
+IMMEDIATE CAREER CHOICE INTENTION The career choices of Indian students reveal interesting insights. Immediately after their studies, a vast majority - 69.7% of the respondents intend to start their career as employees. Meanwhile, 14% want to start their entrepreneurial journey as founders, 3.8% intend to succeed their family or existing businesses, and 12.5% will follow other career paths (Fig. 3.1).
+Of those who want to be employees upon graduating, 44.9% intend to enter employment in large businesses, 18.3% in public service, 15.2% in academia, 13.5% in medium-sized businesses, and 6.5% in small businesses. A small 1.6% intend to work with in the Non-Profit sector (Fig 3.1).
+These trends are similar to those observed at the global level. According to the Global GUESSS 2023 Survey, 65.9% of students globally intend to start their careers as employees immediately after their studies, while 15.7% plan to become entrepreneurs, and 2.5% will succeed their family or existing businesses.
+LONG TERM CAREER CHOICE INTENTION OF INDIAN STUDENTS The career choice landscape shifts notably five years later (Fig. 3.2). The proportion of those in employment decreases to 52.2% (from 69.7% earlier), suggesting a move away from traditional employment. This drop in preference for employment is intriguing and raises curiosity about students’ long term aspirations.
+In contrast, the proportion of students interested to become entrepreneurs more than doubles to 31.4% (from 14% earlier), indicating a strong interest of Indian students in founding an entrepreneurial venture over time. This data indicates a strong preference for founding businesses.
+Successors - students who intend to work with their family business - also see an increase to 6.6% from 3.8% earlier.
+Globally, the GUESSS 2023 Survey shows a similar trend, with the proportion of students intending to remain employees decreasing from 65.9% immediately after their studies to 53.3% five years later. Further, the proportion of students planning to become founders nearly doubles, rising from 15.7% to 30% over the same period. The share of those intending to become successors also increases slightly from 2.5% to 3.2% .
+MOVEMENT ACROSS CAREER CHOICES These trends showcases a dynamic career landscape with respect to preference for entrepreneurship. An additional proportion of students (17%) intend to join the Entrepreneurship five years later in their careers. Majority of these students prefer to explore a career with large companies before switching to Entrepreneurship. It indicates that the students value corporate experience before venturing into entrepreneurship.
+On the other hand, employment preferences of Indian students see a declining trend over five years. The proportion of students planning to work with large and medium size businesses reduces considerably. In contrast, students’ interest in public service increases in the long run.
+Entrepreneurship, business succession and public service are the only three areas that see increase in popularity among students. All other career options see declining interest of students over time.
+The rising interest in entrepreneurship is a positive indication for the Indian student entrepreneurship ecosystem and augurs well for the national startup scene.
+GUESSS India 2023 Report 17
+Fig. 3.1 Immediate Career Choices of Indian Students What is your career preference right after graduating?
+Fig. 3.2 Long Term Career Choices of Indian Students What is your career preference five years after graduating?
+### Indian Students intend to become Entrepreneurs in five years after
+# graduating 31%
+### Indian Students intend to become Entrepreneurs immediately after
+# graduating 14%
+GUESSS India 2023 Report 18
+ENTREPRENEURSHIP AS A CAREER CHOICES ACROSS STUDENT SEGMENTS A further analysis of students’ career choices reveals that entrepreneurship is a consistent choice for different segments.
+Region The desire to become a founder immediately after graduation is fairly uniform across regions, with 14% of students from the Northern, Eastern, and Southern regions expressing entrepreneurial ambitions. Students from the Central (12.8%) and Western (13.1%) regions show slightly lower intent. In the long term, 31-33% of respondents across all regions plan to pursue entrepreneurship as a career.
+Gender Immediately after graduation, more male students (15.3%) show a preference for entrepreneurship compared to females (12%). However, both genders exhibit a marked shift in long-term entrepreneurial intentions, with males maintaining a higher inclination (35%) to become founders five years later. Notably, female entrepreneurial intent grows significantly, rising from 12% to 26.3%, highlighting increasing confidence and opportunities for women in the entrepreneurial space.
+Field of Study Students with a business and management background show the highest inclination toward entrepreneurship, with 17.7% intending to become founders. This is followed by students from science (15.5%), computer science (14.7%), and engineering (13.6%). Students from arts and humanities display a relatively lower entrepreneurial intent, with 9.8% considering entrepreneurship as a career.
+Family Business Background Students with a family business background demonstrate a higher preference for entrepreneurship, with 15.6% intending to start their own ventures upon graduation, compared to 12.8% of students without a family business background.
+Type of Institution Entrepreneurial career choices vary across institution types. Students in deemed universities (16%) and private universities (15.5%) show higher entrepreneurial intent, followed by those from Institutes of National Importance (INIs) and private colleges (14%). State universities exhibit a slightly lower preference, with government colleges showing the lowest inclination towards entrepreneurship.
+REGION Central East North South West
+IMMEDIATE 13% 15% 15% 14% 13%
+5Y LATER 33% 32% 32% 31% 32%
+FAMILY BUSINESS BACKGROUND Yes No
+16% 13%
+34% 30%
+TYPE OF INSTITUTION Affiliating University Centrally Funded Deemed University Government College Private University Private College State University
+IMMEDIATE 13% 14% 16% 11% 16% 14% 13%
+5Y LATER 24% 33% 28% 19% 38% 35% 29%
+CAREER CHOICE INTENTIONS OF STUDENT BY SEGMENTS (% STUDENTS)
+GENDER Male Female
+15% 12%
+35.0% 26.3% FIELD OF STUDY
+Arts & Humanities Computer Science Engineering Management Science
+10% 15% 14% 18% 16%
+18% 34% 35% 35% 22%
+GUESSS India 2023 Report 19
+What role can universities play in ensuring these entrepreneurial inclinations are genuine? How can they create opportunities for students to experiment with venture ideas and gain practical experience during the educational programs? Despite the positive trend, significant barriers remain for students aspiring to become entrepreneurs - particularly there are gender disparities. How can targeted interventions address these challenges and create a more inclusive entrepreneurial ecosystem? What are the broader economic and social implications of this shift toward entrepreneurship for India’s future workforce and innovation landscape? Can this movement generate sustainable economic growth and job creation, positioning India as a global leader in entrepreneurship?
+IMPLICATIONS The growing entrepreneurial aspirations among students highlight the importance of integrating entrepreneurship education and practical experiences into academic curricula. Educational institutions should also enhance their career counseling services to provide personalized guidance for aspiring entrepreneurs, helping them to navigate early-stage challenges more effectively. Incubators must develop student-specific programs that address the unique needs and challenges of student entrepreneurs, offering targeted resources and mentorship to foster their ventures. The government should provide tailored support to aspiring student entrepreneurs by ensuring access to capital, mentorship, and streamlined regulatory processes, enabling them to transition smoothly to venture creation.
+FACTORS SHAPING STUDENTS’ ENTREPRENEURIAL ASPIRATIONS A diverse range of factors shape students' career aspirations, including personal attributes, psychological factors, education, exposure, access to resources, cultural and social contexts, and the economic environment.
+India has fostered a pro-entrepreneurship macro environment driven by aggressive policy initiatives, national campaigns, and government support programs at various levels. Entrepreneurship awareness has surged significantly, fueled by popular media platforms like Shark Tank India. Additionally, the New Education Policy and the National Innovation and Startup Policy have reshaped university ecosystems to prioritize entrepreneurship promotion.
+India's remarkable growth over the past decade, and emergence as a leading global startup ecosystem with over 100 unicorns, further instills confidence in students to pursue entrepreneurial careers. This multi-dimensional stimulus has captured the attention of India's youth, inspiring many to pursue entrepreneurial ventures.
+FOOD FOR THOUGHT: TAKEAWAYS As we analyze the evolving entrepreneurial aspirations of Indian students, several key questions emerge, offering important directions for stakeholders to ponder.
+Clearly, we are witnessing a shift from preference for traditional employment to entrepreneurship. Does this reflect changing values, increased social acceptance, and greater risk tolerance among the younger generation? How can we ensure that students who aspire to turn entrepreneurs five years later don’t lose interest? Aspiring entrepreneurs must receive necessary support from universities and incubators to help them transition.
+GUESSS India 2023 Report 20
+Finally, societal support for these entrepreneurial ambitions will play a pivotal role in creating a vibrant and innovative economic ecosystem, fostering sustainable growth and job creation.
+CONCLUSION The chapter develops our understanding of students’ preferred career choices at two points in time - immediately after graduating and five years after graduation -which provides a robust understanding of students’ career inclinations.
+While the majority of students initially seek traditional employment, there is a noticeable shift towards entrepreneurial ventures over time. The data reveals a significant inclination among Indian students towards entrepreneurship,
+especially as career choice in long run.
+It is clear that students’ initial career choice intentions evolve with time and experience. The Indian educational institutions can enhance their offering by designing their programs and career advancement services to better meet the evolving aspirations of students to become entrepreneur.
+This chapter reveals a significant latent interest and potential of Indian students in building entrepreneurship ventures. By understanding and addressing the needs of interested student groups, educational institutions and policymakers can better support the development of future entrepreneurs, ultimately contributing to a more robust and innovative economy.
+# 4. Entrepreneurial Activity of Indian Students
+# Nascent and Active Student Entrepreneurs
+#### What are the Indian student entrepreneurs upto?
+Entrepreneurial activity refers to the actual engagement of students in conceptualizing and running a new business venture. Student ventures are often at the forefront of innovative ideas, leveraging new technologies and fresh perspectives to address real-world problems.
+Understanding and measuring students’ entrepreneurial activity is crucial for several reasons. First, it helps in identifying the potential for job creation and economic development within a country.
+Second, it provides insights into the innovation capacity of an economy, which is essential for sustaining long-term growth. Third, it helps policymakers design targeted interventions to support and nurture entrepreneurship, thereby enhancing the overall business ecosystem.
+This Chapter aims to quantify the extent of student entrepreneurship activity, nature of student run ventures, and the attributes of student entrepreneurs. It will help gauge the scale of student-driven entrepreneurship across Indian higher education institutions.
+# 4. Entrepreneurial Activity of Indian Students
+#### *India has a robust pipeline of nascent ventures with 33% students trying to start a venture. Their transition into an active venture is the biggest opportunity for Indian student entrepreneurship ecosystem.*
+# What proportion of Indian students are already enterprising?
+# What are the attributes of these ventures?
+# Q
+GUESSS India 2023 Report 23
+ENTREPRENEURIAL ACTIVITY AMONG INDIAN STUDENTS Based on the stage of their venture idea, we divide student entrepreneurs into two -nascent entrepreneurs and active entrepreneurs.
+Nascent Entrepreneurs are the students who are currently in the process of starting their own business. Specifically, this group includes students who are actively trying to set up a new venture but have not yet reached the stage where their business has begun generating regular income or paying salaries for more than three months .
+On the other hand, Active Entrepreneurs are those who have established their own venture. These businesses have moved beyond the nascent stage and have been operational long enough to pay wages or salaries for three months or more.
+NASCENT STUDENT ENTREPRENEURS Within our sample of 13,896 students, 32.5% are currently trying to start their own business. This group represents Nascent Entrepreneurs - the segment actively engaged in the process of establishing a business (Fig. 4.1).
+Fig. 4.1 Nascent Student Entrepreneurs Are you currently trying to start a business?
+Of the nascent entrepreneurs, 29.6%, plan to establish the business during their studies, indicating a desire to integrate their academic and entrepreneurial journeys. 26.8% intend to found their venture right after their studies. 30.2%, aim to complete the founding process of their business in two years after completing their studies. Remaining students are unsure of their timeline (Fig. 4.2).
+Globally, 25.7% of all students are nascent entrepreneurs - they are currently trying to start a business. Of these, 28% plan to complete the founding process during their studies, 22% right after studies, and an additional 24.9% plan to do so within two years after completing their studies .
+India demonstrates a particularly strong pipeline of student ventures in preparation, reflecting the entrepreneurial potential of its student population and the growing support systems available to young entrepreneurs. This robust pipeline is key to the country's future entrepreneurial ecosystem, and nurturing this intent will be crucial for long-term success of ecosystem.
+Fig. 4.2 Timeline of Nascent Entrepreneurs When are you likely to complete founding process?
+GUESSS India 2023 Report 24
+COMMITMENT OF NASCENT STUDENT ENTREPRENEURS Nascent entrepreneurs’ exhibit varying levels of commitment to entrepreneurship as a primary career path. 64% of the nascent entrepreneurs affirm that the business will be their main occupation, indicating a strong entrepreneurial drive. However, 21.9% are undecided, indicating a considerable number of nascent entrepreneurs who are possibly weighing their options or still considering the role business will play in their careers. Remaining 14.1% do not envision the business as their main occupation (Fig. 4.3). Globally, 52% of the nascent entrepreneurs affirm that they their present ventures will be their main occupation.
+Fig. 4.3 Commitment of Nascent Entrepreneurs Will this venture be your business main occupation?
+Fig. 4.4 Past Startup Experience of Nascent Entrepreneurs
+PRIOR STARTUP EXPERIENCE OF NASCENT STUDENT ENTREPRENEURS Fig. 4.4 shows that a small proportion -13.7%, of nascent entrepreneurs are experienced in starting a business, suggesting they bring prior knowledge and experience into their current entrepreneurial endeavors. In contrast, for the vast majority, 86.3%, it is their first foray into entrepreneurship.
+Globally, 14.52% of nascent entrepreneurs have prior startup experience. This indicates a slightly higher percentage of experienced individuals compared to the Indian sample.
+CO-FOUNDER COLLABORATION OF NASCENT STUDENT ENTREPRENEURS Diversity in team can bring a diverse set of skills and expertise. Fig. 4.5 shows that 33.7% of the nascent entrepreneurs are going solo, indicating they are starting their business without a co-founder and may prefer full control or may not have found a suitable partner. On the other hand, 39.7% of the nascent entrepreneurs have one co-founder, 18.7% have two co-founders, and 7.8%, are embarking on their entrepreneurial journey with three or more co-founders.
+This data indicates a considerable interest in collaboration among emerging business founders.
+Fig. 4.5 Number of Co-founders of Nascent Entrepreneurs
+GUESSS India 2023 Report 25
+Globally, the GUESSS 2023 survey shows that 51.1% of nascent entrepreneurs try to start the new venture with one or more co-founders.
+INDUSTRY SECTORS OF NASCENT STUDENT ENTREPRENEURS The industry sector of student ventures is divided into four major categories. The first, primary sector includes businesses related to agriculture, forestry, fishing, etc. The data shows that 15.4% of the nascent student entrepreneurs are engaging with businesses that cover foundational economic activities.
+The secondary sector includes tangible product development, manufacturing, processing, construction, etc.. This industry sector is of interest to 26% of the nascent entrepreneurs. The tertiary sector involves service-oriented fields such as tourism, banking, healthcare, and legal services. A smaller yet notable percentage - 16.6% student nascent ventures are targeting this industry sector.
+The fourth industry sector is quaternary sector which includes knowledge-based activities such as research, IT, education consulting, etc. A significant portion of nascent ventures (27%) focus on this industry sector (Fig. 4.6).
+Fig. 4.6 Industry Sectors of Nascent Entrepreneurs
+# 33%
+### Students currently in process of founding a venture
+# 4.8%
+### Students with an Active venture
+##### 30% of these ventures will go live before graduating
+##### 64% of these are certain to take it up as main
+##### occupation
+##### 14% of these have prior business experience
+##### 62.5% of active ventures have been live for over a
+##### year
+##### 54% of these are certain to take it up as main
+##### occupation
+##### 36% of these have prior business experience
+GUESSS India 2023 Report 26
+COMMITMENT OF ACTIVE STUDENT ENTREPRENEURS As per Fig. 4.8, more than half of the active entrepreneurs, 53.7%, affirm that their business will be their main occupation after graduation, demonstrating a strong dedication to their entrepreneurial ventures
+as their central professional activity. Meanwhile, 24.5% of entrepreneurs do not view their business as their primary occupation, suggesting they might have other career plans, see the business as a side project, or have other plans. A notable 21.9% of respondents are uncertain about whether their business will be their main occupation, indicating that they may be waiting to see how their business develops before committing fully.
+Globally, the GUESSS 2023 survey shows that 41.1% of active entrepreneurs indicated that their business should be their main occupation after graduation .
+AGE OF ACTIVE VENTURES About one third of the active ventures -35% have been in operations for over four years. A significant number of the active ventures (37.5%) are relatively new - less than a year old. The remaining 27.5% have been in existence for 1-4 years. This distribution highlights recent entrepreneurial activity of Indian students (Fig. 4.9). Globally, 30.2% of active entrepreneurs founded their venture in last one year - indicating a significant portion of very young ventures.
+Fig. 4.8 Commitment of Active Entrepreneurs Are you going to take up business as the main
+occupation after studies?
+Fig. 4.7 Active Student Entrepreneurs Are you currently running a business?
+ACTIVE STUDENT ENTREPRENEURS IN INDIA Fig. 4.7 reveals that 4.78% of surveyed students are currently running their own businesses - a relatively small fraction compared to nascent ventures. This indicates that these individuals have moved beyond the planning phase and are actively managing their entrepreneurial ventures, representing established entrepreneurs who have actualized their business ideas into ongoing concerns. Globally, the GUESSS 2023 survey shows that 11.1% of students are active entrepreneurs .
+The stark contrast of active entrepreneurs population to the nascent entrepreneurs highlights the stern challenges that student entrepreneurs face in successfully transitioning into a revenue making venture.
+The entrepreneurship promotion programs and policies must target this intention to action gap.
+GUESSS India 2023 Report 27
+PRIOR STARTUP EXPERIENCE OF ACTIVE STUDENT ENTREPRENEURS A notable 36.4% of active entrepreneurs have past experience with starting a business, which may provide them with valuable insights and an advantage in their current entrepreneurial endeavors. The majority, however, at 63.6%, have not engaged in founding a startup before, indicating that for most of the individuals in the survey, their current business represents their first venture into entrepreneurship. This mix of seasoned and novice entrepreneurs highlights the diverse levels of experience within the active business community (Fig. 4.10).
+Fig. 4.10 Past Startup Experience of Active Entrepreneurs
+Globally, the GUESSS 2023 survey indicates that a similar trend with 23.6% of active entrepreneurs having previous startup experience .
+INDUSTRY SECTORS OF ACTIVE ENTREPRENEURS Fig. 4.11 illustrate that active entrepreneurs are working in a diverse spread of sectors. The primary sector, encompassing natural resource-based industries such as agriculture, forestry, fishing, etc., is the focus for 15% of the active entrepreneurs.
+The secondary sector, accounting for 25% of entrepreneurs, suggests a strong entrepreneurial inclination towards production, manufacturing, processing, etc. The tertiary sector, which is service-oriented constitutes 18.1% of the active businesses. The quaternary sector, which is knowledge and information-driven, is preferred by 24.1% of the active entrepreneurs.
+Globally, the GUESSS 2023 survey indicates the following distribution among active entrepreneurs: 12.85% in the primary sector, 26.31% in the secondary sector, 33.49% in the tertiary sector, and 8.94% in the quaternary sector.
+Fig. 4.11 Industry Sectors of Active Entrepreneurs
+Fig. 4.9 Age of Active Ventures For how long have you been running the
+business venture?
+GUESSS India 2023 Report 28
+CONCLUSION
+The most significant trend in this chapter is
+that one third proportion of Indian students
+currently are working on a nascent startup.
+This is a cumulative effect of efforts of
+several stakeholders in the Indian startup
+ecosystems, and certainly hints at positive
+outcomes in times to come. However, the
+active entrepreneurs are relatively a smaller
+population - which should intrigue
+universities, policy groups, ecosystem
+enablers and educators.
+Nevertheless, these trends are similar to
+global trends which indicates that Indian
+student entrepreneurs are not behind the
+global student entrepreneurs’ community.
+These findings are also a validation of the
+positive outcomes of the Indian
+Government‘s efforts to enthuse university
+innovation and entrepreneurship
+ecosystems. We must note that these
+efforts are relatively recent. The most
+student-focused efforts were the
+introduction of Institute Innovation Councils
+starting 2018 and implementation of the
+National Innovation and Startup Policy post
+2019. Continued support from the state,
+coupled with Indian universities’ enthusiasm
+should increase these numbers going
+forward.
+Most notable finding in this chapter is the
+burgeoning pipeline of nascent
+entrepreneurs. University ecosystems must
+enable all kinds of support to these nascent
+entrepreneurs to ensure survival and
+consequently increase in the active
+entrepreneurs in future.
+# 5. University Entrepreneurship Climate
+# University Support, Entrepreneurship Education and Incubation
+#### *Entrepreneurship support system at Indian universities is developing a positive entrepreneurial mindset among Indian students. The uptake of entrepreneurship education and incubation needs to go up.*
+# 5. University Entrepreneurship Climate
+The University Entrepreneurship Climate refers to the support systems and entrepreneurial culture within academic institutions that encourage students to explore and experiment with their venture ideas. Today, universities in India are actively competing to build robust entrepreneurial ecosystems by offering a wide array of support programs, access to financial and physical resources, mentoring, and networking opportunities for their students.
+These support systems play a crucial role in fostering resilience, innovation, and a proactive approach to problem-solving -qualities that are closely linked to higher rates of nascent and active entrepreneurship. Exposure to such ecosystems can significantly influence students' entrepreneurial intentions, equipping them with the tools and confidence to pursue their entrepreneurial ambitions.
+This chapter examines how Indian students perceive the entrepreneurship climate at their universities. It delves into their exposure to entrepreneurship education, the support they receive, and access to incubation centers.
+# Do Indian Universities provide a germinating ground for entrepreneurial ideas?
+# Do students get required support?
+# Q
+GUESSS India 2023 Report 31
+Notes: 1) Each bar represents the 7 point Likert scale, where the first stack (starting from the left) indicates the respondent strongly disagrees with the statement and last stack (on the right) indicates that respondent strongly agrees with the statement. 2) The width of bar stacks represent the proportion of respondents for each rating level. 3) The numbers at the top of bars represent the average rating of respondents for the given statement.
+Fig. 5.1 Indian Students’ Perception of University Entrepreneurial Climate (N= 13,821)
+4.8
+4.7
+4.5
+UNIVERSITY ENTREPRENEURSHIP CLIMATE We assess the university entrepreneurship climate using a three-item scale based on student perceptions measured through a 7-point Likert scale. This scale evaluates how students perceive the university environment, culture, and support in fostering the development of new venture ideas.
+The average rating on this scale is 4.66 (Fig. 5.1), indicating a positive student perception, which is higher than the global average of 4.5. This suggests that students feel their university provides a supportive climate for entrepreneurial activities, offering resources and/or encouragement to aspiring entrepreneurs.
+The introduction of the National Innovation and Startup Policy (NISP) 2019 and the New Education Policy (NEP) 2020 has reinforced universities' role in promoting entrepreneurship. These policies encourage institutions to establish robust entrepreneurship support systems and allocate dedicated funding for entrepreneurial initiatives on campus.
+Since 2018, the Ministry of Education’s Innovation Cell (MIC) has set up 14,422 Institute Innovation Councils (IICs) across Indian higher education institutions, further contributing to the positive perception of support systems for student entrepreneurs. This philosophical shift is reflected in students’ positive perceptions of university entrepreneurship climate.
+ENTREPRENEURSHIP EDUCATION A notable 49.8% of Indian students have been exposed to entrepreneurship education. Among those who have taken entrepreneurship courses, 40.4% have attended at least one elective course and 34% have benefited from a compulsory course. Additionally, 25.6% of students are enrolled in specialized entrepreneurship programs (Fig. 5.2).
+Globally, 22.7% of global students have attended at least one elective course, and 17.3% have completed a compulsory course. A large proportion of students (58.8%) are yet to engage in entrepreneurship education, i.e., have not participated in any entrepreneurship course.
+GUESSS India 2023 Report 32
+UNIVERSITY SUPPORT Fig. 5.3 highlights the status of university support provided to student entrepreneurs - both nascent and active. 64.4% of the students indicated that they had received some form of support from their university. This indicates that a significant majority of student entrepreneurs benefit from university-based resources such as mentoring, funding, or incubation services.
+However, 35.6% of respondents reported that they have not received any university support. These student entrepreneurs are navigating their entrepreneurial journey without benefiting from institutional infrastructure and support. This distribution underscores the gap in students’ access to university support systems for nurturing student ventures.
+Fig. 5.3 University Support Have you received any support from the
+university?
+##### Fig. 5.2 Entrepreneurship Education Exposure of Indian Students
+TYPE OF UNIVERSITY SUPPORT Fig. 5.4 presents a detailed breakdown of the types of university support availed by nascent and active entrepreneurs. Mentoring is the most common form of support, with 20.6% of respondents indicating they have received mentoring from their university. Funding support follows at 9.7%, and 8.4% have received technical support to help develop their ventures.
+5.3% of respondents reported that they got product showcase opportunities, such as pitch events or demo days, through their university, 3.4% benefited from the university network, 3% from government schemes facilitated by their university. 14.1% of respondents reported receiving "other support," which may include less conventional forms of assistance or specific services tailored to their needs.
+This data underscores the importance of expanding access to support services, while addressing the needs of the student entrepreneurs.
+Fig. 5.5 shows the proportion of students receiving support for venture creation at different types of institutions. Government Colleges (79.1%) and Affiliating Universities (76.2%) have the highest proportion of
+GUESSS India 2023 Report 33
+students that report receiving support. Private universities also demonstrate strong support, with 66.9% of respondents reporting university assistance, followed by deemed-to-be universities at 65%. Institutions of national importance (INI), Central Universities (CU), and Centrally Funded Technical Institutions (CFTIs) show support levels at 63.2%. Private Colleges are slightly lower at 60.7%, and State Universities have the lowest level of reported university support, with 58.5% of students receiving institutional support.
+Fig. 5.6 displays the distribution of university support received by students in different
+Fig. 5.4 Type of University Support received by Student Entrepreneurs
+Fig. 5.5 University Support at Indian Universities (% students) Have you received any support from the university?
+geographical regions in India. The Southern region leads with the highest proportion of student entrepreneurs receiving university support, at 67.5%. This is followed by the Central region at 61.7%, and the Northern region at 61.4%, indicating relatively similar levels of support in these areas.
+In contrast, the Western region shows a slightly lower rate of university support, with 57% of respondents reporting receiving assistance. 55.5% students from the Eastern region report university support - relatively lower compared to all other regions.
+The regional differences highlight varying levels of support infrastructure for student entrepreneurs across the country. The data suggests that students in the Southern, Central, and Northern regions are more likely to access University support, while those in the Western and Eastern regions may not be able to secure such assistance.
+The reasons for varying level of support receive may include student-specific factors such as lack of awareness or initiative and/or university-specific factors such as lukewarm response to student requests, bureaucracy, and/or inadequate support system.
+GUESSS India 2023 Report 34
+Fig. 5.6 University Support in different Regions Have you received any support from the university?
+networking opportunities, 4.9% benefited from state or central startup schemes to help their startup journey. Additionally, 11.2% received other types of university support. However, about one third of these student entrepreneurs are yet to benefit from their universities.
+UNIVERSITY SUPPORT FOR NASCENT AND ACTIVE ENTREPRENEURS Fig. 5.7 reveals that a significant proportion of nascent and active entrepreneurs in Indian Universities have received some form of support from their universities for their startups.
+Specifically, 64.2% of nascent entrepreneurs and 65.9% of active entrepreneurs reported receiving university support, showcasing the positive impact and essential role of universities in fostering entrepreneurship.
+Among nascent entrepreneurs, 20.9% have received mentoring support, 9.1% received funding grants, 8.5% gained access to technical infrastructure such as labs, while 5.2% received opportunities to showcase their startups at state or national-level events. Additionally, 3.3% accessed industry networking opportunities, and 2.7% benefited from state or central startup schemes to help their startup journey.
+Among active entrepreneurs, 18.3% have received mentoring support, 13.7% received funding grants, 7.1% gained access to technical infrastructure such as labs, while 6.3% received opportunities to showcase their startups at state or national-level events. Additionally, 4.4% accessed industry
+# 65% Student ventures that have received support from the university.
+# Mentoring and Funding are the top supports received by student ventures
+GUESSS India 2023 Report 35
+INCUBATION STATUS Figure 5.8 outlines the incubation status of both nascent and active student ventures by Indian students. Currently, 25.9% of these ventures have received incubation support, meaning they are benefiting from structured programs designed to nurture and accelerate startups.
+On the other hand, a significant 74.1% of student entrepreneurs are not incubated, indicating that the majority are not engaged in formal incubation processes. This highlights a considerable gap in the student-incubator connection, which often plays a pivotal role in providing essential resources such as mentorship, funding, and networking opportunities.
+The data underscores the need for broader, more accessible incubation programs to support a larger proportion of student entrepreneurs on their entrepreneurial journeys.
+Fig. 5.7 University Support received by Student Entrepreneurs
+A breakdown of the incubation status shows that 45.4% of incubated student ventures are supported by incubators at their own University, while 46.1% are incubated in external incubators, not affiliated with their University.
+Additionally, 8.4% of incubated student entrepreneurs leverage both their university’s incubator and external incubation programs, indicating that some ventures seek multiple sources of support to maximize their growth potential.
+# 26% student ventures in incubation programs
+GUESSS India 2023 Report 36
+Fig. 5.8 Incubation Status of Student Ventures in India Is your venture incubated?
+Fig. 5.9 Incubation Status of Active Entrepreneurs
+Where is your venture incubated?
+INCUBATION STATUS OF ACTIVE VENTURES Figure 5.9 highlights the incubation status of active student entrepreneurs in India. Notably, 36.6% of active entrepreneurs are currently incubated, revealing that the majority of these ventures are operating without the formal support that incubation programs provide. This suggests that a significant portion of student entrepreneurs are relying on independent efforts and informal networks to scale their businesses.
+Among the incubated active entrepreneurs, 14% are receiving incubation support within their universities, while 18.8% are benefiting from external incubators outside their educational institutions. Additionally, 3.8% of active entrepreneurs leverage dual
+incubation, accessing support both from their university and an external incubator. This small percentage indicates that although dual incubation is available, it remains underutilized.
+INCUBATION STATUS OF NASCENT VENTURES Fig. 5.11 highlights that 24.4% of nascent ventures are incubated. 11.5% are receiving incubation at their university, while 11% are incubated through external incubators outside of their university environment. A small group of nascent entrepreneurs, only 1.9%, benefit from being incubated both at their university and through an external incubator.
+Fig. 5.10 Incubation Status of Nascent Entrepreneurs
+Where is your venture incubated?
+GUESSS India 2023 Report 37
+This data highlights that a large portion of student entrepreneurs are operating without the support of incubation programs, which could influence the growth and success of their ventures.
+INCUBATION ACROSS EDUCATIONAL INSTITUTIONS Fig. 5.11 visualizes the proportion of all student (active and nascent) entrepreneurs incubated across different types of educational institutions in India.
+The highest proportion of incubated entrepreneurs is in government colleges, with 37.9% of the students incubated. This is followed by affiliating universities, where 28.9% of student entrepreneurs have been incubated. Deemed-to-be universities, private universities, and state universities show very similar rates of incubation (about 25%). Institutions of National Importance (INI), central universities (CU), and centrally funded technical institutions (CFTIs) have 24.1% of student entrepreneurs incubated, while private colleges have slightly low proportion of incubated entrepreneurs, at 22.6%.
+While student ventures in Government colleges show a relatively higher incubation rate (37.9%), student entrepreneurs across all other institutions show lower incubation engagement (around 25%). These numbers may reflect student entrepreneurs’ low awareness about incubation programs, and/or varying levels of resources, infrastructure, and emphasis on entrepreneurship across different types of educational institutions.
+INCUBATION STATUS ACROSS REGIONS Fig. 5.12 presents a region-wise breakdown of the incubation status of student entrepreneurs. The Southern region leads in with 27% of student entrepreneurs reporting
+Fig. 5.11 Incubation Status at different type of Institutes
+Is your venture incubated?
+that they are affiliated with an incubation center. This is followed by the Eastern region, where 25.5% of entrepreneurs are part of incubation programs, and the Central region, where the 25% of the student ventures report incubation engagement. The Northern region shows a slightly lower percentage ( 24.5%). The Western region has the lowest incubation rate with 19.5% of student ventures reporting that they are in an incubation program.
+The incubation rate is relatively uniform around 25% across most regions, except for the Southern region showing a slightly higher rate and Western region showing a lower rate. It may reflect varying awareness levels of student ventures and/or available incubation alternatives.
+Fig. 5.12 Incubation Status at different Regions Is your venture incubated?
+GUESSS India 2023 Report 38
+4.7
+4.5
+4.8
+4.6
+4.6
+4.3
+Fig. 5.13 Entrepreneurial Intention of Indian Students (N= 8,516)
+We measure entrepreneurial intention on a 7-point Likert scale based on six-items. The scale measures students’ inclination towards starting a venture. For each question, the respondents provided a rating on a 7-point Likert scale. A higher rating indicates a positive intention.
+These questions were administered to the non-nascent and non-active students, i.e., non-entrepreneurs. These students may have an interest in entrepreneurship but have not yet taken concrete steps toward starting a venture.
+Fig. 5.13 depicts the average rating for each of the scale items. The overall average is 4.6 on the 7-point scale, suggesting a collective sentiment leans toward the positive side of the spectrum. It indicates a general inclination among Indian students to pursue entrepreneurship.
+Globally, the GUESSS 2023 Survey reveals an average entrepreneurial intention rating of 3.7 on a 7-point scale, a relatively neutral stance on the scale.
+Notes: 1) Each division in the stacks represents the 7 point Likert scale, where the first division (starting from the left) indicates the respondent strongly disagrees with the statement. 2) The bottom axis shows cumulative percentage respondents 3) The width of bar stacks represent the proportion of respondents for each rating level is independent of axis. 4) The number in the circles represent the average rating of respondents for the given statement
+ENTREPRENEURIAL INTENTION OF NON-ENTREPRENEURS The surveyed students can be divided into three broad categories: Nascent Entrepreneurs, Active Entrepreneurs, and Non-Entrepreneurs. While the first two categories of students have been discussed earlier, this section addresses the Non-Entrepreneurs - the students that are currently not involved in any entrepreneurial activity. It is pertinent to understand whether these students have any entrepreneurial intentions. The entrepreneurial intention refers to students’ interest in taking up entrepreneurship as a profession. It can be indicated by level of interest and determination displayed by the student in planning and pursuing a business venture.
+Students’ propensity to undertake entrepreneurship can indicate the entrepreneurial potential of a country. Understanding these intentions is critical to fostering a supportive environment for future entrepreneurs.
+GUESSS India 2023 Report 39
+36GUESSS India 2023 Report
+CONCLUSION This chapter underscores the pivotal role that universities play in fostering student entrepreneurship through formal support systems and incubation programs. Indian students have developed a positive perception of entrepreneurship climate at their university. The entrepreneurship education uptake by 49% students is also a positive sign for the Indian student entrepreneurship.
+In terms of support from their universities, about two third of the student ventures report receiving support, which is considerable.
+One one fourth of student ventures are incubated - indicating a substantial gap in the reach of formal incubation services. For nascent entrepreneurs this gap widens as about one third nascent ventures are not incubated.
+The key question is - how to bring such student ventures into the fold of incubation centers. This will be critical for the transition of nascent ventures into the successful active ventures.
+Even those not engaged in venture creation, we observed a positive intent towards entrepreneurship. This may be the result of university climate fostered by several initiatives including National Innovation and Startup Policy (NISP) and the establishment of thousands of Institute Innovation Councils (IICs) that nurture entrepreneurial activity on university campuses.
+The data points to a promising future for student entrepreneurship in India, but addressing the gaps in entrepreneurship education and incubation access will be key to unlocking the full potential of the country’s young entrepreneurs.
+# 6. Student Entrepreneurship Outlook: India and Global Peers
+### Exploring India’s Entrepreneurial Potential Through a Global Lens
+# 6. Student Entrepreneurship Outlook: India and Global Peers
+This chapter benchmarks India’s student entrepreneurship spirit against leading global startup ecosystems to provide a comparative view. Out of the 57 countries that participated in the GUESSS 2023 Survey, we contrast key indicators with five peer countries - USA, Japan, China, UK, and Germany. These countries, including India, are the top six economies by GDP and startup activity. Therefore, the analysis offers insights on student entrepreneurship spirit across world’s leading entrepreneurship ecosystems.
+However, it is important to acknowledge some fundamental differences in the sample composition across these countries. First, the Indian survey recorded the highest number of responses (13,896), followed by China with 6,123 responses, the United States with 2,160, Germany with 2,087, Japan with 1,837, and England with 855 respondents.
+Secondly, in terms of gender distribution, Germany, China, and the UK had a majority
+### *Indian student entrepreneurship landscape outshines top startup destinations globally. With strong entrepreneurial spirit and favorable perception of university ecosystems, Indian students exhibit tremendous entrepreneurial potential.*
+# Where does India stand globally in student entrepreneurial spirit?
+# Q
+GUESSS India 2023 Report 42
+Fig. 6.2 Students’ Level of Study for India and Global Peers
+Fig. 6.3 Students’ Field of Study for India and Global Peers
+Fig. 6.4 Students’ Family Business Background for India and Global Peers
+Fig. 6.1 Students’ Gender for India and Global Peers
+GUESSS India 2023 Report 43
+of female respondents, with 69%, 67%, and 61%, respectively. Conversely, India and the US had a male majority, with 62% and 53% male respondents, respectively (Fig. 6.1).
+Thirdly, Japan (97.7%) and China (93.9%) had the highest proportion of undergraduate students in the sample. India followed with 78.7% of respondents at the undergraduate level, while England (69.5%) and the US (56.3%) had a relatively lower percentage of undergraduate students (Fig. 6.2).
+Regarding the field of study, the majority of Indian respondents (68%) were pursuing degrees in computer science/IT and engineering. In contrast, Japan had a majority of students in business and management programs (66%). For the US, England, Germany, and China, the sample is more balanced (Fig. 6.3).
+Finally, 44% of the Indian sample reported having a family business background, slightly lower than the 50% observed in the US, but higher than the UK (43%) and Germany (25%). China and Japan have the lowest proportion of students with a family business background (Fig. 6.4).
+CAREER CHOICE INTENTIONS India leads in terms of entrepreneurial career aspirations with 14% of students planning to start a business right after their studies, followed by England (13%), the USA (8.3%) and Germany (7.8%). China has 5.1% of students with immediate entrepreneurial intentions, and Japan has the lowest proportion at 2.2% (Fig. 6.5).
+The five-year career outlook changes significantly with 31.4% of Indian students intending to be a founder five years after their studies. England follows at 24.7%, showing a substantial increase in entrepreneurial intentions in the long run. Germany also sees a significant rise, with 20% planning to found a business within five years. The rest of the countries have 10% or fewer students intending to be founders five years after graduating.
+The data highlights a strong entrepreneurial spirit among students in India, both immediately after their studies and in the longer term. England and Germany also show considerable entrepreneurial ambitions, particularly in the five-year outlook. The USA, China, and Japan demonstrate notable levels of interest in entrepreneurship, indicating a dynamic future for global student entrepreneurship.
+Fig. 6.5 Students’ Career Choices Preferences for India and Global Peers
+Preference for Career in Entrepreneurship Immediately on Graduation
+Preference for Career in Entrepreneurship Five Years after Graduation
+GUESSS India 2023 Report 44
+NASCENT ENTREPRENEURSHIP India leads prominently with 32.5% of surveyed students identifying as nascent entrepreneurs, indicating a high level of initial entrepreneurial interest, followed by England (28.1%) and the USA (12.5%). German, Chinese, and Japanese students exhibit a much lower engagement with nascent entrepreneurship (Fig. 6.7).
+Commitment of Nascent Entrepreneurs Fig. 6.8 shows the commitment of nascent entrepreneurs to continue their startups as their main career option. It reveals varying levels of entrepreneurial dedication across countries. In India, 64.1% of nascent entrepreneurs are committed to pursuing their startups as their primary career. England (64%) and USA (63.4%) follow with similar commitment. Japan has 55.4% of nascent entrepreneurs intending to continue with their startups. Germany and China exhibit relatively lower levels of commitment, with 51.9% and 51.5% of nascent entrepreneurs, planning to pursue their startups as their main career.
+PERCEIVED UNIVERSITY CLIMATE Fig. 6.6 illustrates the perception of students about university entrepreneurship climate across different countries and provides insights into how supportive and conducive students perceive their university environments for entrepreneurship.
+India has the highest average score of 4.7, indicating that students in India perceive their university entrepreneurial climate relatively more positively. Both the USA and England follow closely with an average score of 4.6, suggesting strong support and encouragement for entrepreneurial activities in their universities. China has a score of 4.1, Japan 3.8 and Germany 3.7, indicating a moderate perception of students about their universities’ climate for entrepreneurship.
+These findings highlight the varying degrees of perceived support for entrepreneurship within universities across these leading economies, with India, USA, and England leading in creating favorable entrepreneurial climates for their students.
+Fig. 6.6 Students’ Perception of University Entrepreneurship Climate for India and
+Global Peers
+### Indian students show the highest career preference for entrepreneurship among the global peers.
+### Backed by a strong university support, India is poised to see a surge in student entrepreneurship.
+GUESSS India 2023 Report 45
+Industry Sectors of Nascent Entrepreneurs Fig 6.9 depicts the industry sectors of nascent entrepreneurs across different countries. In India, most nascent entrepreneurs (26.9%) are working in quaternary sector, followed closely by secondary sector (26.01%), while tertiary sector and primary sectors are preferred by 16.6% and 15.38% of nascent entrepreneurs, respectively. For Japan, the tertiary sector (services) leads with 33.3%, followed by the quaternary sector (intellectual activities) at 24.1%, while the primary and secondary sectors have low preference among nascent entrepreneurs. Similar trend can be seen across China and Germany. England and the US, although show a similar trend, have a higher preference for the tertiary sector compared to India.
+Entrepreneurial Experience of Nascent Entrepreneurs Fig. 6.10 exhibits the entrepreneurial experience of nascent entrepreneurs. 23.3% of the nascent entrepreneurs in the US have founded a venture previously, the highest amongst the peers, followed by China (18.3%), England (16.7%), Japan (14.2%), and India (13.6%). Indian student entrepreneurs are least experienced in venture creation.
+Fig. 6.7 Proportion of Nascent and Active Entrepreneurs for India and Global Peers
+ACTIVE ENTREPRENEURS The USA has an impressive 54.6% of respondents as active entrepreneurs, the highest amongst the peers, followed by England (16.73%). The rest of the peers have less than 7% active entrepreneurs (Fig 6.7).
+Commitment of Active Entrepreneurs As per Fig 6.8, 73.2% of the active entrepreneurs in the USA indicate commitment to take up their venture as their main occupation, followed by England (56.3%), and India (53.6%). Active entrepreneurs in China (39.2%), Germany (27.6%), and Japan (26.3%) show comparatively a lower commitment level.
+Industry Sectors of Active Entrepreneurs Fig. 6.9 on the industry sectors of active entrepreneurs reveals that the secondary (25%-43%) and tertiary (17%-47%) sectors are the most popular sectors for active entrepreneurs. Primary sector is comparatively more favored by active entrepreneurs in India (22.88%) and the US (18.27%). Of the active entrepreneurs, England (45%), US (44.7%) and China (44%) have the highest proportion of experienced entrepreneurs (Fig 6.10). India (36.43%), Japan (26.32%) and Germany (17.29%) have relatively less experienced entrepreneurs.
+GUESSS India 2023 Report 46
+Fig. 6.8 Commitment to Entrepreneurship Are you likely to continue your venture as your main occupation after studies?
+Nascent Entrepreneurs Active Entrepreneurs
+Fig. 6.9 Industry Sectors of Startup Ventures
+Nascent Entrepreneurs Active Entrepreneurs
+Fig. 6.10 Past Startup Experience of Founders
+Nascent Entrepreneurs Active Entrepreneurs
+GUESSS India 2023 Report 47
+ENTREPRENEURIAL INTENT While some students engage in a nascent or an active venture, the remaining did not participate in any such activity. These students’ intention to engage in entrepreneurial ventures was assessed on a 7-point Likert scale.
+The Indian students averaged 4.6, indicating a strong entrepreneurial intention. The USA, England and China follow with an average score of 4.1, 3.9, and 3.1. In contrast, Germany and Japan an average scores of 2.5, indicating relatively lower entrepreneurial intent (Fig. 6.11).
+These trends suggest that students in India and the USA have a relatively stronger entrepreneurial intention that extends beyond students actively engaged in entrepreneurship. On the other hand, students in Germany and Japan indicate relatively lower entrepreneurial intention.
+The difference in the entrepreneurial intention may be a result of multitude of factors including but not limited to, cultural factors, educational exposure, family business background, and access to entrepreneurial ecosystem.
+Fig. 6.11 Students’ Entrepreneurial Intention for India and Global Peers
+COMPARATIVE ANALYSIS Overall, India does fairly well on the key parameters that indicate entrepreneurial spirit of Indian students. We take six measures of entrepreneurial spirit:
+Immediate Career Choice Intentions1. Long Term Career Choice Intentions2. Students’ Perception of University Entrepreneurship Climate
+3.
+Proportion of Nascent Entrepreneurs4. Proportion of Active Entrepreneurs5. Entrepreneurial Intention of students not currently engaged in entrepreneurial activity.
+6.
+First of all, India does better than global average on five out of these six parameters. Secondly, India scores the highest on five of the six parameters among the peer countries (Fig. 6.12).
+Where India has considerable ground to cover is the proportion of active entrepreneurs. Interestingly, 54.6% of respondents in case of USA are active entrepreneurs - which is a sizable proportion. The second best is England with 16.7%.
+Considering that sample size for India is significantly higher than the peer countries, the findings are robust enough to represent diversity of Indian student population. However, sample size for the US is relatively small (2160). Therefore, we must exercise caution in conclusively backing these comparisons. However, we should not shy away from doing an indicative analysis.
+### India outperforms global peers on most student entrepreneurial spirit parameters
+GUESSS India 2023 Report 48
+Notes: Immediate Career Choice reports percentage of students intending to become an entrepreneur immediately after graduation
+1.
+Long term Career Choice reports percentage of students intending to become an entrepreneur five years after graduation
+2.
+University Climate reports students’ perception of entrepreneurship environment on a 7-point Likert scale (based on a multi-item scale).
+3.
+Nascent Entrepreneurs reports percentage of students who are trying to start a business.4. Active Entrepreneurs reports percentage of students who are actively running a business.5. Entrepreneurial Intention reports inclination of non-nascent, non-active students to become an entrepreneur on a 7-point Likert scale (based on multi-item scale).
+6.
+(1) Immediate choice to
+become an Entrepreneur (% Students)
+(2) Long term
+Choice to be an
+Entrepreneur (% Students)
+(3) University
+Climate Perception
+(7-Point scale)
+(4) Nascent
+Entreprene urs (%
+Students)
+(5) Active
+Entreprene urs (%
+Students)
+(6) Entrepreneuri al Intention of
+Other Students (7-point
+scale)
+India’s Peer Rank
+1 1 1 1 4 1
+India 14.0% 31.4% 4.7 32.5% 4.8% 4.6
+Global Average (57 Countries)
+15.7% 30.0% 4.5 17.0% 11.1% 3.7
+Global Peers (Top 5 Countries by GDP and Startup Activity)
+China 5.1% 8.2% 4.1 6.6% 2.2% 3.1
+England 13.0% 24.7% 4.6 28.1% 16.7% 3.9
+Germany 7.8% 20.1% 3.7 7.7% 6.5% 2.5
+Japan 2.2% 8.5% 3.8 3.1% 1.1% 2.5
+USA 8.3% 13.8% 4.6 12.5% 54.6% 4.1
+Fig. 6.12 India’s Relative Standing on Students’ Entrepreneurial Spirit
+GUESSS India 2023 Report 49
+CONCLUSION This chapter positions India within the global landscape of student entrepreneurship. Indian students demonstrate immense entrepreneurial potential, leading in several key indicators. However, the proportion of active student ventures is relatively low compared to global peers. That said, India has a strong pipeline of nascent entrepreneurs in the process of setting up ventures, indicating that more student-led businesses will emerge in the near future.
+One of the key strengths of the Indian student entrepreneurship ecosystem is the highly positive perception of the university entrepreneurship climate, rated the highest
+among peer countries. Moreover, Indian students show the strongest commitment to pursuing entrepreneurship as a career after graduation. Additionally, those not yet involved in entrepreneurial activities display the highest entrepreneurial intent compared to global peers.
+These findings underscore the efforts of various stakeholders within the Indian startup ecosystem, particularly the initiatives driven by government support. With such a strong foundation, the future of student entrepreneurship in India looks promising and will play a crucial role in contributing to economic growth and job creation.
+# 7. Key Insights and Path Ahead
+### Food for Thought and Future Research Directions
+# 7. Key Insights and Path Ahead
+The GUESSS India 2023 Survey is maiden study on the student entrepreneurial spirit in Indian context. It provides an extensive analysis of the entrepreneurial spirit of Indian students, and benchmarks it to the leading global startup ecosystems. The report reveals both encouraging trends and critical gaps.
+The major highlights of the report include a strong career preference of Indian students towards entrepreneurship, a robust pipeline of student ventures, and a positive student entrepreneurship climate at Universities. Government programs, policy initiatives, and on-the-ground infrastructure boosted India’s student entrepreneurship ecosystem. India possesses significant potential to establish itself as a global leader in innovation and entrepreneurship due to its expanding youth population.
+Nevertheless, some gaps must be bridged to completely unlock entrepreneurial potential of students. A rising number of students exhibit a pronounced interest in entrepreneurship. But, maintaining their interest and supporting ‘intention to action’ transition require attention.
+### *India has a tremendous opportunity to unlock its students’ entrepreneurial potential, driven by a vibrant University Entrepreneurship Climate and strong government support.*
+# What is the way ahead for the India’s Student Entrepreneurship Ecosystem?
+# Q
+GUESSS India 2023 Report 52
+This chapter provides key insights from the survey, articulates key challenges and outlines a future research agenda that deepens our understanding of Indian students’ entrepreneurial spirit.
+KEY INSIGHTS 1. Entrepreneurship: An Emerging Career Choice 14% of surveyed students want to become entrepreneurs after graduating, while 31% want to become entrepreneurs in five years after graduating - indicating a strong interest in entrepreneurship, the highest among global peers. Initially, about 70% of students intend to start as employees; however, it drops to 52% five years later, with the majority moving towards entrepreneurship.
+2. Robust Student Venture Pipeline Overall, about 38% of students are involved in the venture creation process with 33% in nascent stage and 4.8% in active venture stage. India’s pipeline of nascent entrepreneurs is the highest among global peers and higher than the global average of 25.7%. This indicates a growing momentum for entrepreneurship within Indian universities, likely spurred by positive university entrepreneurship climate.
+3. Slowly Emerging Active Student Ventures Currently, 4.8% of surveyed Indian students have revenue-generating businesses, which is lower than the global average of 11%. However, with 33% of students in the nascent stage of venture creation, India has a huge potential for active ventures led by students in the near future. In this context, the role of key stakeholders - government,
+universities, incubators, and educators, is critical in facilitating this transition from nascent to active ventures.
+4. Access to Incubation for Student Ventures 26% of student ventures are linked to an incubation center, indicating they have access to support services including mentoring, funding, and infrastructure to enable their venture success. Further, we note that a higher proportion of active entrepreneurs are incubating their venture, compared to the nascent entrepreneurs. The nascent ventures need tailored incubation programs to enable their transition into active ventures.
+5. Entrepreneurship Education Promotion To increase awareness and interest in entrepreneurship, universities should include compulsory entrepreneurship courses to increase awareness and interest in entrepreneurship.
+GUESSS India 2023 Report 53
+6. Positive University Entrepreneurship Climate Indian students perceive their university entrepreneurship climate positively, with an average score of 4.7 on a 7-point Likert scale, the highest among global peers. The favorable climate in the universities encourages students to experiment with entrepreneurial activities. 63% of student entrepreneurs are currently receiving university support, exhibiting the critical role that universities can play in nurturing nascent and active student ventures.
+7. Employee First, Entrepreneur Later Approximately 70% of Indian students aim to become employees immediately on graduating, but it drops to 52% when students look five years ahead. On the other hand, 14% of students intend to found ventures on graduating, which increases to 31% when students look five years ahead. This shows that a significant proportion of students prefer gaining work experience before transitioning into entrepreneurship.
+8. Strong Entrepreneurship Intent Non-entrepreneurs - students not currently involved in entrepreneurial ventures -exhibit strong entrepreneurial intentions, with an average score of 4.6 on a 7-point scale. This is significantly higher than the global average of 3.7 and the highest among global peers.
+9. India’s Strong Global Standing India outperforms its global peers including the US, UK, China, Japan, and Germany on most entrepreneurial spirit parameters indicators including students’ immediate career preference for entrepreneurship, long-term entrepreneurial aspirations, perception of university entrepreneurship climate, nascent ventures in progress, and entrepreneurial intent among students not currently engaged in entrepreneurship.
+10. Balanced Distribution of Entrepreneurial Spirit The data shows that the entrepreneurial activity in India is not lopsided. The key indicators of student entrepreneurial spirit are observed across different regions and types of educational institutions.
+While the insights provide a comprehensive understanding of the strengths of student entrepreneurship ecosystem, there is a need to acknowledge the challenges as well. Fig 7.1 presents a SWOT analysis of Indian student entrepreneurial ecosystem.
+CHALLENGES AND RECOMMENDATIONS Supporting Nascent Ventures India has a substantial pipeline of nascent student ventures, and it is crucial to ensure these ventures successfully transition to active businesses. There is a need for targeted programs and interventions that provide essential support to help transition these early-stage ventures into revenue generating ventures.
+Cultivating Entrepreneurial Spirit To foster the entrepreneurial spirit among students, India must persist its efforts through awareness programs, bootcamps, competitions, and incorporate entrepreneurship into course curricula more deeply. These efforts will motivate the students to consider entrepreneurship as one of the feasible career paths.
+Expanding Incubation Support A large proportion of nascent and active student ventures are not linked to incubation centers. It is important to ensure that the promising venture ideas do not go unexplored due to a lack of mentorship, funding, and handholding. These activities are critical to hone India's student entrepreneurs.
+Encouraging Entrepreneurship During Studies Students should be incentivized to engage in entrepreneurship during studies. Universities need to establish special academic and administrative provisions to allow students to balance their studies with their entrepreneurial endeavors, reducing barriers to startup success during their education.
+5. Entrepreneurship Education Promotion To increase awareness and interest in entrepreneurship, universities should include compulsory entrepreneurship courses to increase awareness and interest in entrepreneurship.
+GUESSS India 2023 Report 54
+### STRENGTHS
+##### Burgeoning youth population Government support through policy frameworks for States and Universities Balanced participation of diverse student groups and institutions in entrepreneurship activity Extensive network of innovation councils, pre-incubation centers and incubation centers
+### WEAKNESSES
+##### Transition from nascent to active ventures has been low - resulting in lower share of Active Entrepreneurs Limited reach of entrepreneurship education Limited access of student ventures to incubation programs
+### THREATS
+##### Consistent government support is subject to political will and stability. Possible mismatch between support programs and requirement of student ventures Possible quality dilution of support programs due to rapid expansion of ecosystem
+# SWOT
+### OPPORTUNITIES
+##### Students’ long term career inclination towards entrepreneurship Robust pipeline of nascent entrepreneurs Positive University Entrepreneurship Climate Strong Entrepreneurship Intent of Non-Entrepreneurs. Incubation potential of student ventures Strong Global position of India in student entrepreneurship.
+##### Fig. 7.1 SWOT Analysis of Indian Student Entrepreneurship Ecosystem
+GUESSS India 2023 Report 55
+RESEARCH DIRECTIONS GUESSS India aims to develop a deep understanding of the role of university, cultural factors, and economic environment in shaping the entrepreneurial spirit of students. The dataset from the maiden GUESSS India Survey has provided a strong foundation for meaningful research in this direction. Representation of diverse universities across a wide geographical spread provides a fairly comprehensive snapshot of the present state of student entrepreneurial spirit. It also creates opportunities for longitudinal studies that can track trends and transformations over time. Some key areas for future research include:
+1. The Evolution of Career Choices How do students' career choices develop and mature over time? What intrinsic factors and external circumstances shape their decision to pursue entrepreneurship? What academic or policy interventions can ensure sustenance of entrepreneurial intentions throughout students’ academic journeys?
+2. Government Support for Early Entrepreneurship What is the role of the government in encouraging early adoption of entrepreneurship among students? What are the pros and cons of the "employee first, entrepreneur later" trend that has been observed? How can stakeholders be incentivized to increase early uptake of entrepreneurship among students?
+3. University Support and Ecosystem Development Do universities assist in the germination of ideas? Is there sufficient support for venture development, and the necessary ecosystem for student entrepreneurs?
+4. Impact of Family Business Background Does the family business background of students shape their career choice to become an entrepreneur? Do parental role models significantly affect students' entrepreneurial or succession intentions?
+5. The Path from Nascent to Active Ventures How do nascent entrepreneurs navigate their way to becoming a revenue-generating business? What forms of support is most critical in these early stages to ensure survival and transition to a viable venture?
+6. Effectiveness of Entrepreneurship Interventions What is the effectiveness of current policy interventions in attracting students to entrepreneurship? Can these initiatives be optimized to have a more significant impact on student entrepreneurship?
+7. Effectiveness of Entrepreneurship Education Does entrepreneurship education influence students’ entrepreneurial intentions and subsequent career choices? Can entrepreneurship really be taught? Can we make students entrepreneurs?
+8. Regional variation in student entrepreneurship How do regional economic environments and cultural factors shape students‘ inclination to become entrepreneurs? Are there regional differences in terms of entrepreneurial spirit and activity?
+9. Learning from Global Ecosystems What lessons can India draw from successful entrepreneurship ecosystems worldwide to support student entrepreneurs in India? India’s efforts are relatively new in this direction and can benefit from peer learning.
+GUESSS India 2023 Report 56
+GUESSS 2025 The GUESSS Survey is a biennial initiative that offers comprehensive insights into student entrepreneurship spirit across the globe. The next round of the GUESSS India Survey is planned for 2025. The forthcoming survey round will build on the insights gathered in 2023 and offer a more comprehensive examination of entrepreneurial intentions and activities of Indian students.
+The ongoing rapid growth of the entrepreneurial ecosystem in India, coupled with the increasing number of students engaged in entrepreneurship courses, leads us to anticipate a much larger participation in the 2025 survey.
+The 2025 survey will also provide an opportunity for longitudinal analysis. The comparison of results across years will help identify emerging trends and challenges. Through the ongoing collaboration of universities, government, and industry stakeholders, we anticipate the GUESSS India 2025 Survey will advance our understanding of student entrepreneurs.
+We eagerly await the next phase of GUESSS India initiative and anticipate a growing engagement of Indian students.
+CONCLUSION The GUESSS India 2023 Survey Report provides a comprehensive overview of the entrepreneurial aspirations of Indian students, highlighting both their ambitions and the challenges. India is at the cusp of realising the full potential of its student entrepreneurs, driven by increasing interest in entrepreneurship, robust government backing, and evolving academic ecosystems.
+In addition to the positive signs, the report also emphasizes the need to bridge the gaps, particularly in incubation support, formal entrepreneurship education, and the transition from intent to action. The stakeholders need to cultivate a more inclusive and robust environment for student-led ventures. These efforts ultimately contribute to India's economic growth and innovation landscape.
+Student entrepreneurship has a promising future in India looks. As universities, policymakers, and the private sector continue to work together to nurture the entrepreneurial aspirations of students, we anticipate seeing a surge in successful student ventures in the coming years. With continuous emphasis on critical areas, India is set to emerge as a global leader in entrepreneurship, driven by the passion and potential of its student entrepreneurs.
+# References
+ Startup India. (2024). Indian Startup Ecosystem. Retrieved from https://www.startupindia.gov.in/content/sih/en/interna tional/go-to-market-guide/indian-startup-ecosystem.html
+ Press Information Bureau. (2024). DPIIT recognises 1,17,254 startups as on 31st Dec 2023. Retrieved from https://pib.gov.in/PressReleaseIframePage.aspx? PRID=2005206
+ Startup Genome. (2024). Global Startup Ecosystem Ranking 2024: Top 40. Retrieved from https://startupgenome.com/article/global-startup-ecosystem-ranking-2024-top-40
+ Forbes India. (2024). Unicorns India List. Retrieved from https://www.forbesindia.com/article/explainers/unicor ns-india-list/85309/1
+ Sage. (n.d.). Alma mater of unicorn founders. Retrieved from https://www.ibef.org/news/iit-ranks-fourth-among-universities-where-unicorn-founders-studied-report
+ World Bank. (2020). Doing Business 2020: Comparing Business Regulation in 190 Economies. Retrieved from https://www.doingbusiness.org/content/dam/doingBu siness/pdf/db2020/Doing-Business-2020_rankings.pdf
+ World Economic Forum. (2020). The Global Competitiveness Report Special Edition 2020: How Countries are Performing on the Road to Recovery.
+ Dutta, S., Lanvin, B., & Wunsch-Vincent, S. (Eds.). (2023). Global Innovation Index 2023: Innovation in the face of uncertainty. World Intellectual Property Organization. Retrieved from https://www.globalinnovationindex.org/gii-2023-report
+ Press Information Bureau. (2022). States’ Start-up Ranking 2021 to be declared on 4th July. Retrieved from Press Information Bureau.
+ Ministry of Education's Innovation Cell. (2023). Institution’s Innovation Council (IIC) Impact Dashboard. Retrieved from https://iic.mic.gov.in/iic-impact-dashboard
+ Ministry of Education, Government of India. (2023). All India Survey on Higher Education (AISHE) 2021-2022. Retrieved from https://dashboard.aishe.gov.in/hedirectory/#/institution Directory
+ Pew Research Center. (2024). Key facts about India’s growing population as it surpasses China’s population. Retrieved from https://www.pewresearch.org
+ Global Indian Times. (2024). Indian Engineers. Retrieved from https://www.globalindiantimes.com/globalindiantimes/2 024/3/6/indian-engineers-32024
+ Tracxn. (2024). List of 114 unicorn startups in India (Jul 2024). Retrieved from https://tracxn.com
+* Sieger, P., Raemy, L., Zellweger, T., Fueglistaller, U., & Hatak, I. (2024). Student Entrepreneurship 2023: Insights from 57 Countries. St. Gallen/Bern: KMU-HSG/IMU-U.*
+ Franke, N., & Lüthje, C. (2004). Entrepreneurial intentions of business students — A benchmarking study. International Journal of Innovation and Technology Management, 1(3), 269–288. https://doi.org/10.1142/S0219877004000209
+ Ministry of Education Innovation Cell. (n.d.). IIC impact dashboard. Innovation Cell, Ministry of Education, Government of India. https://iic.mic.gov.in/iic-impact-dashboard
+ Liñán, F., & Chen, Y. W. (2009). Development and cross-cultural application of a specific instrument to measure entrepreneurial intentions. Entrepreneurship Theory and Practice, 33(3), 593–617. https://doi.org/10.1111/j.1540-6520.2009.00318.x
+GUESSS India 2023 Report 58
+S No Country Responses Percent
+1 Argentina 2,462 1.09%
+2 Austria 2,277 1.00%
+3 Belgium 5,422 2.39%
+4 Bolivia 3,695 1.63%
+5 Brazil 7,447 3.28%
+6 Bulgaria 1,742 0.77%
+7 Canada 4,687 2.07%
+8 Chile 6,164 2.72%
+9 China 6,123 2.70%
+10 Colombia 13,041 5.75%
+11 Costa Rica 2,603 1.15%
+12 Croatia 1,822 0.80%
+13 Czech Republic 1,407 0.62%
+14 Dominican Republic 547 0.24%
+15 Ecuador 5,215 2.30%
+16 England 855 0.38%
+17 Germany 2,087 0.92%
+18 Greece 416 0.18%
+# Annexure 1
+##### 1.1 Global Coverage of GUESSS 2023 Survey
+##### 1.2 List of Countries - GUESSS 2023 Survey (57)
+GUESSS India 2023 Report 59
+S No Country Responses Percent
+19 Guinea 418 0.18%
+20 Hungary 14,720 6.49%
+21 India 13,896 6.13%
+22 Indonesia 1,665 0.73%
+23 Iran 28 0.01%
+24 Iraq 1,461 0.64%
+25 Ireland 140 0.06%
+26 Italy 4,374 1.93%
+27 Japan 1,837 0.81%
+28 Jordan 1,765 0.7 204 0.09%
+38 North Macedonia 254 0.11%
+39 Norway 8 0.00%
+40 Pakistan 354 0.16%
+41 Panama 1,468 0.65%
+42 Paraguay 2,020 0.89%
+43 Portugal 1,055 0.47%
+44 Puerto Rico 71 0.03%
+45 Qatar 132 0.06%
+46 Russia 0.03%
+55 United Arab Emirates 440 0.19%
+56 Uruguay 1,693 0.75%
+57 USA 2,160 0.95%
+Total Responses 226,718 100.00%
+GUESSS India 2023 Report 60
+# Annexure 2
+##### Conceptual Coverage of GUESSS India 2023 Survey Instrument
+Key Concepts Description
+Background Assesses demographic, academic, and family business background of students
+ Explores students' overall well-being and life satisfaction.
+Entrepreneurial Self-Efficacy Measures students' confidence in their ability to perform entrepreneurial tasks.
+Resilience Assesses students' ability to overcome challenges and setbacks.
+Political Ideology Assesses students' political beliefs.
+Entrepreneurial Intention Provides insights into students' intentions to engage in entrepreneurial activities.
+Entrepreneurs as Scientists Explores the students' ability to apply scientific methods to the process of entrepreneurship.
+Dark Triad Personality Traits Assesses the dark triad personality traits of students.
+Causation Assesses the extent to which students use a causation approach in their entrepreneurial activities.
+Alertness Measures students' ability to identify and act on entrepreneurial opportunities.
+Firm Performance Evaluates the performance of student-founded ventures using financial and operational metrics.
+Social and Environmental Performance
+Assesses the social and environmental impact of businesses started by student entrepreneurs.
+Individual Entrepreneurial Orientation Measures students' innovativeness, proactiveness, and risk-taking propensity.
+Succession Intention Explores students' intentions to take over existing family businesses.
+GUESSS India 2023 Report 61
+# National Partners
+National Programme on Technology Enhanced Learning (NPTEL), is India’s largest technical knowledge dissemination and certification program involving seven Indian Institutes of Technology. NPTEL is also the largest successfully running multi-institutional project in India. It is a not-for-profit consortium supported by the MoE, Govt of India. This initiative was started with the aim of providing access to quality courses created by faculty of premier institutes to anyone who has an internet connection and a computer. With the advent of MOOC platforms, we organically evolved to offering certification exams and has grown on to become the technical agency managing the National MOOC platform -SWAYAM. From March 2014 onward NPTEL started offering online certification courses. Every January and July, anywhere between 700 to 800 courses are offered online - free of cost - for anyone to enroll and learn from. The certification involves writing an exam that is proctored and conducted in 200+ cities across India.
+Wadhwani Foundation is a high-growth tech organization dedicated to social good. It is a global not-for-profit with the primary mission of accelerating economic development by driving job creation through large-scale initiatives in skilling, entrepreneurship,
+The Indian STEPs and Business Incubators' Association (ISBA) is the apex body representing Science and Technology Entrepreneurs Parks (STEPs) and business incubators in India. Established in 2004, ISBA plays a pivotal role in nurturing and promoting entrepreneurship across the country by supporting incubators and technology parks that foster innovation and entrepreneurial ventures. With a wide network of members, ISBA provides a platform for knowledge sharing, capacity building, and policy advocacy, thereby contributing to the development of a robust incubation ecosystem in India. ISBA works closely with government bodies, industry stakeholders, and academic institutions to promote innovation-led entrepreneurship. It offers a range of services, including incubation support, mentorship, funding opportunities, and access to a vibrant network of entrepreneurs and experts. Through its efforts, ISBA has been instrumental in advancing the startup ecosystem in India.
+government digital transformation, and innovation & research. Founded by Silicon Valley entrepreneur Dr. Romesh Wadhwani, the Foundation is scaling impact across multiple countries in Asia, Africa, and Latin America. Through innovative programs that leverage the latest technology and expansive global networks, it democratizes access to world-class resources needed to improve livelihoods and change lives. Learn more: www.wadhwanifoundation.org
+GUESSS India 2023 Report 62
+# GUESSS India Team
+GUESSS India 2023 Core Team (From Left to Right) Utsav Seth, Aviral Garg, Dhamrender Yadav, Puran Singh, Aditi Ghosh, Vansika Khatri, Abhay Gupta
+##### Dharmender K Yadav, National Team Member
+##### Dharmender K Yadav is a doctoral candidate at the School of
+##### Management at Indian Institute of Technology Mandi. His
+##### research interests include student entrepreneurship, and
+##### entrepreneurship education. He has a Master’s Degree from
+##### Banaras Hindu University and an MPhil from Delhi School of
+##### Economics.
+##### Dr. Puran Singh, Country Delegate, GUESSS India
+##### Dr. Puran Singh is Associate Professor of Entrepreneurship and
+##### Finance at the School of Management at Indian Institute of
+##### Technology Mandi. He is ex-Director Incubation and the
+##### founding Faculty Incharge of IIT Mandi Catalyst, an emerging
+##### technology business incubator in the Himalayan Region. He has
+##### served on the Governing body of ISBA. He is a member of CII’s
+##### Northern Region Committee on Entrepreneurship.
+# GUESSS India Team
+##### Dr. Puran Singh Country Delegate, GUESSS India Associate Professor (Entrepreneurship & Finance) School of Management, IIT Mandi Himachal Pradesh, India 175005
+##### Email: puran@iitmandi.ac.in, guesssindia@gmail.com Website: www.guesssindia.in

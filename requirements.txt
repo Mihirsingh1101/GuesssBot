@@ -1,0 +1,14 @@
+# Core AI and Language Model Libraries
+langchain
+langchain-community
+transformers
+sentence-transformers
+torch
+
+# Vector Store Library (CPU version is best for cloud deployment)
+faiss-cpu
+
+# Web Server Libraries
+flask
+flask-cors
+waitress
