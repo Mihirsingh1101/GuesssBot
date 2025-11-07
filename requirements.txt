@@ -12,3 +12,6 @@ faiss-cpu
 flask
 flask-cors
 waitress
+
+# Additional Utilities
+langchain-text-splitters
