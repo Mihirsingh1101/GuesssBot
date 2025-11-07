@@ -2,7 +2,7 @@ import argparse
 from pathlib import Path
 from typing import List
 
-from langchain_text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import SentenceTransformerEmbeddings
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, pipeline
